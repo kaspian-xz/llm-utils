@@ -1,0 +1,5 @@
+input.txt
+items_names.txt
+output.csv
+venv/
+chroma_store/

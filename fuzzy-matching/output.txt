@@ -1,0 +1,4558 @@
+short_name,full_name
+AN/VDR-2,"Context information is below.
+---------------------
+Прилад AN/VDR-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: AN/VDR-2
+Answer: "
+A-pule помірний помірний дезактивуючий засіб (мило),"Context information is below.
+---------------------
+A-pule поміений дезактивуючий зcіб (мило)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: A-pule помірний помірний дезактивуючий засіб (мило)
+Answer: "
+AVON (Підсумок до протигазів AVON),"Context information is below.
+---------------------
+Підсумок до протигазів AVON
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: AVON (Підсумок до протигазів AVON)
+Answer: "
+AVON ST-53,"Context information is below.
+---------------------
+Ізолюючий дихальний комплект AVON ST53
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: AVON ST-53
+Answer: "
+BioFire Film Arrey 2.0,"Context information is below.
+---------------------
+Система BioFire FilmArray 2.0
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: BioFire Film Arrey 2.0
+Answer: "
+Bionear,"Context information is below.
+---------------------
+Спеціальна хіміко-біологічна лабораторія Bionear
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Bionear
+Answer: "
+Blauer TR9435-1,"Context information is below.
+---------------------
+Костюм тренувальний Blauer TR9435-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Blauer TR9435-1
+Answer: "
+C-clean піноутворювач для дезактивації,"Context information is below.
+---------------------
+C-clean піноутворювач для дезактивації
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: C-clean піноутворювач для дезактивації
+Answer: "
+Decon AgentNaDCC активний хлор,"Context information is below.
+---------------------
+Decon Agent NaDCC активний хлор
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Decon AgentNaDCC активний хлор
+Answer: "
+Decon RN-A1 добавка до піни,"Context information is below.
+---------------------
+Decon RN-A1 добавка до піни
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Decon RN-A1 добавка до піни
+Answer: "
+Decon RN-A2 комплексоутворення іонів ізотопів,"Context information is below.
+---------------------
+Decon RN-A2 комплутворення іонів ізотопів
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Decon RN-A2 комплексоутворення іонів ізотопів
+Answer: "
+"Hazard 4,11,8 л Евакуаційна сумка-рюкзак, колір чорний","Context information is below.
+---------------------
+Hazard 4,11,8 л Евакуаційна сумка-рюкзак, колір чорний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Hazard 4,11,8 л Евакуаційна сумка-рюкзак, колір чорний
+Answer: "
+Mini Bench,"Context information is below.
+---------------------
+Ключ 14x15
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Mini Bench
+Answer: "
+"HAZARD 4,11,8л Евакуаційна сумка рюкзак,колір чорний","Context information is below.
+---------------------
+Hazard 4,11,8 л Евакуаційна сумка-рюкзак, колір чорний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: HAZARD 4,11,8л Евакуаційна сумка рюкзак,колір чорний
+Answer: "
+"HAZARD 4,12*8 плач","Context information is below.
+---------------------
+Протигази ІП-4(ЄО-35)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: HAZARD 4,12*8 плач
+Answer: "
+Ortec Detective EX-100,"Context information is below.
+---------------------
+Ortec Detective EX-100
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ortec Detective EX-100
+Answer: "
+Rokfackla-4,"Context information is below.
+---------------------
+РПВ-16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Rokfackla-4
+Answer: "
+АКБ 6СТ-60,"Context information is below.
+---------------------
+Акумулятор 6СТ-60
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ 6СТ-60
+Answer: "
+АКБ 6СТ-60А1,"Context information is below.
+---------------------
+Акумулятор 6СТ-60А1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ 6СТ-60А1
+Answer: "
+АКБ 6СТ-75,"Context information is below.
+---------------------
+Акумулятор 6СТ-75
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ 6СТ-75
+Answer: "
+АКБ 6СТ-88,"Context information is below.
+---------------------
+Акумулятор 6СТ-88
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ 6СТ-88
+Answer: "
+АКБ 6СТ-90,"Context information is below.
+---------------------
+Акумулятор 6СТ-90
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ 6СТ-90
+Answer: "
+АКБ GP80 AAAHC,"Context information is below.
+---------------------
+АКБ GP 450 DKC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ GP80 AAAHC
+Answer: "
+АКБ Ventura GP 12-9,"Context information is below.
+---------------------
+Акумулятор Ventura GP 12-9
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ Ventura GP 12-9
+Answer: "
+АЛ-4М,"Context information is below.
+---------------------
+Спеціальне обладнання АЛ-4М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АЛ-4М
+Answer: "
+"Алюмінієвий лист 1,5кг (1х2)","Context information is below.
+---------------------
+Алюмінієвий лист 1,5кг (1х2)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Алюмінієвий лист 1,5кг (1х2)
+Answer: "
+АП-1,"Context information is below.
+---------------------
+КПО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АП-1
+Answer: "
+АСВ-2,"Context information is below.
+---------------------
+Ізолюючий апарат АСВ-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АСВ-2
+Answer: "
+АСП,"Context information is below.
+---------------------
+Газосигналізатори АСП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АСП
+Answer: "
+АТМ-10,"Context information is below.
+---------------------
+Акумулятор 6СТ-90
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АТМ-10
+Answer: "
+Бахіли Bigfoot-CE,"Context information is below.
+---------------------
+Бахіли Bigfoot-CE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бахіли Bigfoot-CE
+Answer: "
+ББЦ (зимова),"Context information is below.
+---------------------
+Вогнесуміш ББЦ (зимова)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ББЦ (зимова)
+Answer: "
+ББЦ (літня),"Context information is below.
+---------------------
+Вогнесуміш ББЦ (літня)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ББЦ (літня)
+Answer: "
+БДШ-5,"Context information is below.
+---------------------
+Шашки димові БДШ-5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: БДШ-5
+Answer: "
+БЗ-1М,"Context information is below.
+---------------------
+Рукавиці БЗ-1М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: БЗ-1М
+Answer: "
+Болгарка,"Context information is below.
+---------------------
+Болгарка
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Болгарка
+Answer: "
+Бочка Л-100,"Context information is below.
+---------------------
+Рукав Б-2-50-5 ГОСТ 5398-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бочка Л-100
+Answer: "
+Бочка Л-200,"Context information is below.
+---------------------
+Рукав Б-2-50-5 ГОСТ 5398-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бочка Л-200
+Answer: "
+Бочка Л-200 (1A1L),"Context information is below.
+---------------------
+Рукав Б-2-50-5 ГОСТ 5398-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бочка Л-200 (1A1L)
+Answer: "
+Бочка товстостінна Л-275,"Context information is below.
+---------------------
+Бочки товстостінні Л-275
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бочка товстостінна Л-275
+Answer: "
+БУ-4М,"Context information is below.
+---------------------
+Спеціальні машини БУ-4М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: БУ-4М
+Answer: "
+Використаний постріл від РПО-А,"Context information is below.
+---------------------
+Використаний постріл РПО-А
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Використаний постріл від РПО-А
+Answer: "
+Викрутка,"Context information is below.
+---------------------
+Викрутка
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Викрутка
+Answer: "
+Викрутка 125мм,"Context information is below.
+---------------------
+Викрутка 125 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Викрутка 125мм
+Answer: "
+Викрутка 150мм,"Context information is below.
+---------------------
+Викрутка 150 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Викрутка 150мм
+Answer: "
+Викрутка 160,"Context information is below.
+---------------------
+Викрутка 160 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Викрутка 160
+Answer: "
+Відро оцинковане,"Context information is below.
+---------------------
+Відро оцинковане
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Відро оцинковане
+Answer: "
+Візок ручний гідравлічний палетний BF25 (550PD)-H,"Context information is below.
+---------------------
+Візок ручний гідравлічний палетний BF25(550PD)-H
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Візок ручний гідравлічний палетний BF25 (550PD)-H
+Answer: "
+Воронка,"Context information is below.
+---------------------
+Викрутка
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Воронка
+Answer: "
+ВП до ИД-11,"Context information is below.
+---------------------
+Коробка для ПП-9
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ВП до ИД-11
+Answer: "
+ВПХР (НЗ),"Context information is below.
+---------------------
+Прилади ВПХР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ВПХР (НЗ)
+Answer: "
+Галонові мішки Ziploc,"Context information is below.
+---------------------
+Галонові мішки Ziploc
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Галонові мішки Ziploc
+Answer: "
+ГК ЗіП АГВ-3У,"Context information is below.
+---------------------
+Групові комплекти ЗІП для АГВ-3У
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГК ЗіП АГВ-3У
+Answer: "
+ГК ЗіП АЛ-4М,"Context information is below.
+---------------------
+Групові комплекти ЗІП для АЛ-4М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГК ЗіП АЛ-4М
+Answer: "
+ГК ЗіП АРС-14,"Context information is below.
+---------------------
+Групові комплекти ЗІП для АРС-14
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГК ЗіП АРС-14
+Answer: "
+ГК ЗіП АСП,"Context information is below.
+---------------------
+Групові комплекти ЗІП для АСП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГК ЗіП АСП
+Answer: "
+ГК ЗіП БУ-4М,"Context information is below.
+---------------------
+Групові комплекти ЗІП для БУ-4М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГК ЗіП БУ-4М
+Answer: "
+ГК ЗіП ТДА,"Context information is below.
+---------------------
+Групові комплекти ЗІП для ТДА (М)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГК ЗіП ТДА
+Answer: "
+Годинник,"Context information is below.
+---------------------
+Годинник
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Годинник
+Answer: "
+Годинник 122ЧС,"Context information is below.
+---------------------
+Годинник 122ЧС
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Годинник 122ЧС
+Answer: "
+Грунт сірий,"Context information is below.
+---------------------
+Круг відрізний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Грунт сірий
+Answer: "
+ГСА-1,"Context information is below.
+---------------------
+Газосигналізатор ГСА-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГСА-1
+Answer: "
+ГСА-12,"Context information is below.
+---------------------
+Газосигналізатори ГСА-12
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГСА-12
+Answer: "
+ГСА-13,"Context information is below.
+---------------------
+Газосигналізатори ГСА-13
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ГСА-13
+Answer: "
+ДГ-01Б,"Context information is below.
+---------------------
+Ручна димова граната ДГ-01Б
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДГ-01Б
+Answer: "
+"Декон-мило , лужне","Context information is below.
+---------------------
+Декон-мило , лужне
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Декон-мило , лужне
+Answer: "
+Димова граната JVA 0858,"Context information is below.
+---------------------
+Димова граната JVA 0858
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Димова граната JVA 0858
+Answer: "
+ДК-02,"Context information is below.
+---------------------
+Комплекти ДК-02
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-02
+Answer: "
+ДК-3,"Context information is below.
+---------------------
+Комплект ДК-3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-3
+Answer: "
+ДК-4,"Context information is below.
+---------------------
+Комплект ДК-4
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-4
+Answer: "
+ДК-4-63,"Context information is below.
+---------------------
+Комплекти ДК-4-63
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-4-63
+Answer: "
+ДК-4Б,"Context information is below.
+---------------------
+Комплекти ДК-4Б
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-4Б
+Answer: "
+ДК-4Д,"Context information is below.
+---------------------
+Комплект ДК-4Д
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-4Д
+Answer: "
+Додатковий компонент емульсії чорний камуфляж,"Context information is below.
+---------------------
+Додатковий компонент емульсії чорний камуфляж
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Додатковий компонент емульсії чорний камуфляж
+Answer: "
+ДП-22В,"Context information is below.
+---------------------
+Комплекти ДП-22В
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДП-22В
+Answer: "
+ДП-64,"Context information is below.
+---------------------
+Комплекти ДП-22В
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДП-64
+Answer: "
+"Дріт ШВВП 2*2,5","Context information is below.
+---------------------
+Дріт ШВВП 2х2,5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Дріт ШВВП 2*2,5
+Answer: "
+Електричний конвертер,"Context information is below.
+---------------------
+Електричний конвертер
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електричний конвертер
+Answer: "
+Електроди діаметром 3мм,"Context information is below.
+---------------------
+Електроди діам. 3 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електроди діаметром 3мм
+Answer: "
+Електролітна суміш,"Context information is below.
+---------------------
+Електролітна суміш
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електролітна суміш
+Answer: "
+Електронний макет схема ДП-5В,"Context information is below.
+---------------------
+Макет-схема ДП-5В
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електронний макет схема ДП-5В
+Answer: "
+Електронний макет схема ДП-64,"Context information is below.
+---------------------
+Електр.-схема ДП-64
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електронний макет схема ДП-64
+Answer: "
+Електронний макет схема ІП-4,"Context information is below.
+---------------------
+Електр.-схема ІП-4
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електронний макет схема ІП-4
+Answer: "
+Електронний макет схема ІП-5,"Context information is below.
+---------------------
+Електр.-схема ІП-5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електронний макет схема ІП-5
+Answer: "
+Електрорубанок,"Context information is below.
+---------------------
+Електрорубанок
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електрорубанок
+Answer: "
+Емаль хакі,"Context information is below.
+---------------------
+Хлорпікрин
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Емаль хакі
+Answer: "
+Емаль хакі,"Context information is below.
+---------------------
+Хлорпікрин
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Емаль хакі
+Answer: "
+Емаль чорна,"Context information is below.
+---------------------
+Емаль чорна
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Емаль чорна
+Answer: "
+Емаь чорна,"Context information is below.
+---------------------
+Емаль чорна
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Емаь чорна
+Answer: "
+Захисний костюм Blaver XRT,"Context information is below.
+---------------------
+Захисний костюм Blauer XRT
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Захисний костюм Blaver XRT
+Answer: "
+Захисні рукавиці CLOUTIER,"Context information is below.
+---------------------
+Захисні рукавиці CLOUTIER
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Захисні рукавиці CLOUTIER
+Answer: "
+Зварювальний апаарт Bx1250,"Context information is below.
+---------------------
+Зварювальний апарат ВХ-1250
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Зварювальний апаарт Bx1250
+Answer: "
+ЗДП-МФ,"Context information is below.
+---------------------
+Патрони ЗДП-МФ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ЗДП-МФ
+Answer: "
+ЗДП-МХ,"Context information is below.
+---------------------
+Патрони ЗДП-МХ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ЗДП-МХ
+Answer: "
+ЗКП до ВПХР,"Context information is below.
+---------------------
+Запасні комплекти ЗКП для ВПХР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ЗКП до ВПХР
+Answer: "
+ЗКП ППХР,"Context information is below.
+---------------------
+Запасні комплекти ЗКП для ППХР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ЗКП ППХР
+Answer: "
+"Зошит на спіралі - 8,5х11","Context information is below.
+---------------------
+Зошит на спіралі - 8,5х11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Зошит на спіралі - 8,5х11
+Answer: "
+Зубило,"Context information is below.
+---------------------
+Зубило
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Зубило
+Answer: "
+Зчитувач інформації з дозіметра LDM320D,"Context information is below.
+---------------------
+Зчитувач інформації з дозіметра LDM320D
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Зчитувач інформації з дозіметра LDM320D
+Answer: "
+ИДК-1,"Context information is below.
+---------------------
+Комплекти ІДК-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ИДК-1
+Answer: "
+ИМД-12,"Context information is below.
+---------------------
+Шашки димові ДМ-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ИМД-12
+Answer: "
+ИМД-1Р,"Context information is below.
+---------------------
+Контейнери ПРХМ-1(малий)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ИМД-1Р
+Answer: "
+ИМД-21Б,"Context information is below.
+---------------------
+Димові гранати РДГ-55МБ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ИМД-21Б
+Answer: "
+ІД-02,"Context information is below.
+---------------------
+Комплекти ІД-02
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІД-02
+Answer: "
+ІД-11 (НЗ),"Context information is below.
+---------------------
+Індикаторна трубка DT-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІД-11 (НЗ)
+Answer: "
+ІДП-С,"Context information is below.
+---------------------
+Комплекти ІДП-С
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІДП-С
+Answer: "
+ІМД-1С,"Context information is below.
+---------------------
+Комплекти ІД-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІМД-1С
+Answer: "
+ІМД-21С,"Context information is below.
+---------------------
+Вимірювачі ІМД-21С
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІМД-21С
+Answer: "
+ІП-4,"Context information is below.
+---------------------
+РПВ-16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІП-4
+Answer: "
+ІП-5,"Context information is below.
+---------------------
+КПО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІП-5
+Answer: "
+ІТ до УГ-2 (на аміак),"Context information is below.
+---------------------
+ІТ на аміак (до УГ-2)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ до УГ-2 (на аміак)
+Answer: "
+ІТ до УГ-2 (на хлор),"Context information is below.
+---------------------
+ІТ на хлор (до УГ-2)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ до УГ-2 (на хлор)
+Answer: "
+ІТ на аміак,"Context information is below.
+---------------------
+ІТ на аміак
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ на аміак
+Answer: "
+ІТ на оксид вуглецю,"Context information is below.
+---------------------
+ІТ на оксид вуглецю
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ на оксид вуглецю
+Answer: "
+ІТ на толуол,"Context information is below.
+---------------------
+ІТ на толуол
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ на толуол
+Answer: "
+ІТ на хлор,"Context information is below.
+---------------------
+ІТ на хлор
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ на хлор
+Answer: "
+ІТ-48,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-48
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-48
+Answer: "
+ІТ-49,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-49
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-49
+Answer: "
+Карти дозиметра RADTriage50,"Context information is below.
+---------------------
+Карти дозиметра RADTriage50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Карти дозиметра RADTriage50
+Answer: "
+Кейс Pilican R60-Large,"Context information is below.
+---------------------
+Кейс Pelican R60-Large
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Pilican R60-Large
+Answer: "
+КЗО-2,"Context information is below.
+---------------------
+Комплекти КЗО-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КЗО-2
+Answer: "
+Кисть 12,"Context information is below.
+---------------------
+Кисть 12
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть 12
+Answer: "
+Кисть 14,"Context information is below.
+---------------------
+Кисть 14
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть 14
+Answer: "
+Кисть 16,"Context information is below.
+---------------------
+Кисть 16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть 16
+Answer: "
+Кисть 18,"Context information is below.
+---------------------
+Кисть 18
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть 18
+Answer: "
+Кисть 6,"Context information is below.
+---------------------
+Кисть 6
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть 6
+Answer: "
+Кисть флейцова 63,"Context information is below.
+---------------------
+Кисть флейцова 63
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть флейцова 63
+Answer: "
+Киянка 1100г,"Context information is below.
+---------------------
+Киянка 1100г
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Киянка 1100г
+Answer: "
+КіЗ АСП (зимовий),"Context information is below.
+---------------------
+Комплекти КІЗ для АСП (зимовий)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КіЗ АСП (зимовий)
+Answer: "
+Кільце ПД,"Context information is below.
+---------------------
+Кільце ПД
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кільце ПД
+Answer: "
+Ключ 10*12,"Context information is below.
+---------------------
+Ключ 10х12
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ 10*12
+Answer: "
+Ключ 13*14,"Context information is below.
+---------------------
+Ключ 13х14
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ 13*14
+Answer: "
+Ключ гайк 12*13,"Context information is below.
+---------------------
+Ключ гайковий 12x13
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ гайк 12*13
+Answer: "
+Ключ гайк 8*10,"Context information is below.
+---------------------
+Ключ гайковий 8х10
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ гайк 8*10
+Answer: "
+Ключ гайковий 14*15,"Context information is below.
+---------------------
+Ключ гайковий 8х10
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ гайковий 14*15
+Answer: "
+Ключ гайковий 27*30,"Context information is below.
+---------------------
+Ключ гайковий 27х30
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ гайковий 27*30
+Answer: "
+Ключ гайковий 32*36,"Context information is below.
+---------------------
+Ключ гайковий 32х36
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ гайковий 32*36
+Answer: "
+Ключ гайковий 41*46,"Context information is below.
+---------------------
+Ключ гайковий 41х46
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ гайковий 41*46
+Answer: "
+Ключ розвідний 19,"Context information is below.
+---------------------
+Ключ розвідний 19
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ розвідний 19
+Answer: "
+Ключ торцовий 17*19,"Context information is below.
+---------------------
+Ключ торцовий 17х19 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ключ торцовий 17*19
+Answer: "
+Компас,"Context information is below.
+---------------------
+Компас
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Компас
+Answer: "
+Компютер DDR-2,"Context information is below.
+---------------------
+Компютер DDR-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Компютер DDR-2
+Answer: "
+Компютер Intel,"Context information is below.
+---------------------
+Компютер Intel Celeron
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Компютер Intel
+Answer: "
+Конектор кінцевої секції (бокове кріплення тентів),"Context information is below.
+---------------------
+Конектор кінцевої секції (бокове кріплення тентів: довжина 6м.; висота по центру - 1м 20см.; висота по краяї - 40см.)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Конектор кінцевої секції (бокове кріплення тентів)
+Answer: "
+Конектор тентів (кріплення до накриття тентів 8м 90см*56),"Context information is below.
+---------------------
+Конектор тентів (кріплення для накриття тентів 8м 90см х 56см)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Конектор тентів (кріплення до накриття тентів 8м 90см*56)
+Answer: "
+Контейнер ІСС-4ВП,"Context information is below.
+---------------------
+Контейнери ІСС-4ВП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Контейнер ІСС-4ВП
+Answer: "
+Контейнер ПРХМ (великий),"Context information is below.
+---------------------
+Контейнери ПРХМ-1(великий)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Контейнер ПРХМ (великий)
+Answer: "
+Контейнер ПРХМ (малий),"Context information is below.
+---------------------
+Контейнери ПРХМ-1(малий)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Контейнер ПРХМ (малий)
+Answer: "
+Коробка з НЗП,"Context information is below.
+---------------------
+Коробка з НЗП до ПМК
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Коробка з НЗП
+Answer: "
+Коробка ПП,"Context information is below.
+---------------------
+Коробка для ПП-9
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Коробка ПП
+Answer: "
+Косарка,"Context information is below.
+---------------------
+Компас
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Косарка
+Answer: "
+Косильна головка,"Context information is below.
+---------------------
+Ключ гайковий 12x13
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Косильна головка
+Answer: "
+Костюм захисний Dupont Tyvek,"Context information is below.
+---------------------
+Костюм захисний Dupont Tyvek
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Костюм захисний Dupont Tyvek
+Answer: "
+КПО-1,"Context information is below.
+---------------------
+КПО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КПО-1
+Answer: "
+КПП-1,"Context information is below.
+---------------------
+КПО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КПП-1
+Answer: "
+"Крильчатка насоса 2,5ВС-3а","Context information is below.
+---------------------
+Крильчатка насоса 2,5ВС-3а
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Крильчатка насоса 2,5ВС-3а
+Answer: "
+Круг відрізний,"Context information is below.
+---------------------
+Круг відрізний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Круг відрізний
+Answer: "
+Ксерокс,"Context information is below.
+---------------------
+Ксерокс Infotek
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ксерокс
+Answer: "
+КСО,"Context information is below.
+---------------------
+Компас
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КСО
+Answer: "
+Кутник,"Context information is below.
+---------------------
+Кутник
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кутник
+Answer: "
+Л-1,"Context information is below.
+---------------------
+Захисний костюм Л-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Л-1
+Answer: "
+Л-1 (НЗ),"Context information is below.
+---------------------
+Захисний костюм Л-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Л-1 (НЗ)
+Answer: "
+Лещата,"Context information is below.
+---------------------
+Лещата
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лещата
+Answer: "
+Лицева частина M40 A1,"Context information is below.
+---------------------
+Лицева частина M40A1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лицева частина M40 A1
+Answer: "
+Лицьова частина AVON M-50,"Context information is below.
+---------------------
+Лицьова частина AVON M-50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лицьова частина AVON M-50
+Answer: "
+Лицьова частина MP5,"Context information is below.
+---------------------
+Лицьова частина MP5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лицьова частина MP5
+Answer: "
+Лицьова частина ПМК,"Context information is below.
+---------------------
+Лицьові частини ПМК
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лицьова частина ПМК
+Answer: "
+Ліхтарик,"Context information is below.
+---------------------
+Ліхтарик СХТ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ліхтарик
+Answer: "
+Ліхтарик СХТ,"Context information is below.
+---------------------
+Ліхтарик СХТ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ліхтарик СХТ
+Answer: "
+Ліцензійний диск Windows,"Context information is below.
+---------------------
+Ліцензійний диск Windows XP
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ліцензійний диск Windows
+Answer: "
+Лобзик електричний,"Context information is below.
+---------------------
+Лобзик електричний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лобзик електричний
+Answer: "
+Майстерня РГМ,"Context information is below.
+---------------------
+Майстерні РГМ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Майстерня РГМ
+Answer: "
+"Мала реактивна вог. система ""Сівалка YM-8","Context information is below.
+---------------------
+Некерована ракета С-8Тер (оснащена термобаричною сумішшю)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мала реактивна вог. система ""Сівалка YM-8
+Answer: "
+Манометр ТК-155,"Context information is below.
+---------------------
+Манометр ТК-155
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Манометр ТК-155
+Answer: "
+Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.1,"Context information is below.
+---------------------
+Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.1
+Answer: "
+Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.2,"Context information is below.
+---------------------
+Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.2
+Answer: "
+МЗО-1,"Context information is below.
+---------------------
+Газосигналізатор ГСА-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МЗО-1
+Answer: "
+Мішок №1 і №2,"Context information is below.
+---------------------
+Мішок №1 і №2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мішок №1 і №2
+Answer: "
+МК-2,"Context information is below.
+---------------------
+МК-3М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МК-2
+Answer: "
+Молоток 500г,"Context information is below.
+---------------------
+Молоток 500г
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Молоток 500г
+Answer: "
+Мотоблок,"Context information is below.
+---------------------
+Вороток
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мотоблок
+Answer: "
+Мотор електричний,"Context information is below.
+---------------------
+Мотор електричний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мотор електричний
+Answer: "
+МП-5У,"Context information is below.
+---------------------
+Макет-схема ДП-5В
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МП-5У
+Answer: "
+МП-800,"Context information is below.
+---------------------
+Мотопомпа МП-800
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МП-800
+Answer: "
+Набір для спеціальної обробки індивідуальний №2 (DKP2 MK2),"Context information is below.
+---------------------
+Набір для спеціальної обробки індивідуальний №2 (DKP2 MK2)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Набір для спеціальної обробки індивідуальний №2 (DKP2 MK2)
+Answer: "
+Набір ключів (рожк./накидні),"Context information is below.
+---------------------
+Набір ключів (рожкові)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Набір ключів (рожк./накидні)
+Answer: "
+Набір стимуляторів SIM KIT,"Context information is below.
+---------------------
+Набір симуляторів SIM KIT
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Набір стимуляторів SIM KIT
+Answer: "
+Нагнітач ЯАЗ-204,"Context information is below.
+---------------------
+Нагнітач ЯАЗ-204
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Нагнітач ЯАЗ-204
+Answer: "
+Напильник квадратний,"Context information is below.
+---------------------
+Напильник квадратний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Напильник квадратний
+Answer: "
+Напильник плоский,"Context information is below.
+---------------------
+Напильник плаский
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Напильник плоский
+Answer: "
+Напильник трьогранний,"Context information is below.
+---------------------
+Напильник трьохгранний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Напильник трьогранний
+Answer: "
+Насос МШ-3А,"Context information is below.
+---------------------
+Насос МШ-3А лівого обертання
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Насос МШ-3А
+Answer: "
+Некерована ракета С-8 Тер-01,"Context information is below.
+---------------------
+Некерована ракета С-8Тер (оснащена термобаричною сумішшю)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Некерована ракета С-8 Тер-01
+Answer: "
+Некерована ракета С-8Тер,"Context information is below.
+---------------------
+Некерована ракета С-8Тер (оснащена термобаричною сумішшю)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Некерована ракета С-8Тер
+Answer: "
+Некерована ракета С-8Тер (оснащена термобаричною сумішю),"Context information is below.
+---------------------
+Некерована ракета С-8Тер (оснащена термобаричною сумішшю)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Некерована ракета С-8Тер (оснащена термобаричною сумішю)
+Answer: "
+Окуляри захисні,"Context information is below.
+---------------------
+Окуляри захисні
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Окуляри захисні
+Answer: "
+Окуляри захисні Pyramex G 205,"Context information is below.
+---------------------
+Окуляри захисні Pyramex G205
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Окуляри захисні Pyramex G 205
+Answer: "
+Пакет програмного забезпечення для налаштування дозиметра DMCUser,"Context information is below.
+---------------------
+Пакет програмного забезпечення для налаштування дозиметра DMCUser
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пакет програмного забезпечення для налаштування дозиметра DMCUser
+Answer: "
+Патрон ЗДП,"Context information is below.
+---------------------
+Патрони ЗДП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Патрон ЗДП
+Answer: "
+Патрон сверл. діаметр 13,"Context information is below.
+---------------------
+Прист. вимір. до ІД-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Патрон сверл. діаметр 13
+Answer: "
+ПГО-11,"Context information is below.
+---------------------
+Газоаналізатори ПГО-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПГО-11
+Answer: "
+Пелікан кейс для BioFire Film Array,"Context information is below.
+---------------------
+Пелікан кейс для BioFire FilmArray 2.0
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пелікан кейс для BioFire Film Array
+Answer: "
+Пензлик,"Context information is below.
+---------------------
+Пензлик
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пензлик
+Answer: "
+Пила електрична,"Context information is below.
+---------------------
+Пила електрична
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пила електрична
+Answer: "
+Підшоломник імпрегований,"Context information is below.
+---------------------
+Підшоломники імпрегновані
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Підшоломник імпрегований
+Answer: "
+Плащ ОП-1М,"Context information is below.
+---------------------
+Плащ ОП-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Плащ ОП-1М
+Answer: "
+ПМК,"Context information is below.
+---------------------
+Сумка до ПМК
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПМК
+Answer: "
+ППХР,"Context information is below.
+---------------------
+Прилади ВПХР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ППХР
+Answer: "
+Принтер Canon,"Context information is below.
+---------------------
+Принтер Canon Pixma-1000
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Принтер Canon
+Answer: "
+Принтер Samsung,"Context information is below.
+---------------------
+Принтер Star LС
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Принтер Samsung
+Answer: "
+Причеп Палич 1/ZO/2817,"Context information is below.
+---------------------
+Причеп ""Палич"" 1/Z0/2817
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Причеп Палич 1/ZO/2817
+Answer: "
+Проектор мультимедійний,"Context information is below.
+---------------------
+Мотор електричний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Проектор мультимедійний
+Answer: "
+Прокладка ПД,"Context information is below.
+---------------------
+Прокладка ПД
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Прокладка ПД
+Answer: "
+ПРХМ-3,"Context information is below.
+---------------------
+Спеціальні машини ПРХМ-3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПРХМ-3
+Answer: "
+ПРХМ-Д,"Context information is below.
+---------------------
+Спеціальне обладнання ПРХМ-Д
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПРХМ-Д
+Answer: "
+ПТПП,"Context information is below.
+---------------------
+Піропатрони ПП-9
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПТПП
+Answer: "
+ПХЛ-54,"Context information is below.
+---------------------
+Протигази ІП-5(ЄО-36)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПХЛ-54
+Answer: "
+РАГ-2М,"Context information is below.
+---------------------
+Спеціальне обладнання РАГ-2М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РАГ-2М
+Answer: "
+Распіратор Р-2,"Context information is below.
+---------------------
+Рецептура РД-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Распіратор Р-2
+Answer: "
+Распіратори одноразові KN 95,"Context information is below.
+---------------------
+Распіратор одноразовий KN95
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Распіратори одноразові KN 95
+Answer: "
+РГИС-ЕТ до АСП,"Context information is below.
+---------------------
+Джерела РГІС-ЕТ до АСП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РГИС-ЕТ до АСП
+Answer: "
+РГТ-27С2,"Context information is below.
+---------------------
+Ручна граната термобарична РГТ-27С2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РГТ-27С2
+Answer: "
+РГТ-27С2 (з запалом УЗРГМ),"Context information is below.
+---------------------
+Ручна граната термобарична РГТ-27С2 (з запалом УЗРГМ)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РГТ-27С2 (з запалом УЗРГМ)
+Answer: "
+РД-2,"Context information is below.
+---------------------
+Рецептура РД-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РД-2
+Answer: "
+РДГ-55МЧ,"Context information is below.
+---------------------
+Димові гранати РДГ-55Ч
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-55МЧ
+Answer: "
+РДР-40,"Context information is below.
+---------------------
+Ємкості РДР-40
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДР-40
+Answer: "
+Розподільна панель для 5 наметів,"Context information is below.
+---------------------
+Учбові розрізи ІП-5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Розподільна панель для 5 наметів
+Answer: "
+РП-4,"Context information is below.
+---------------------
+РПВ-16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РП-4
+Answer: "
+РП-4-01,"Context information is below.
+---------------------
+РПВ-16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РП-4-01
+Answer: "
+РПВ-16 (ПП),"Context information is below.
+---------------------
+РПВ-16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РПВ-16 (ПП)
+Answer: "
+"Рукав 10*18,5","Context information is below.
+---------------------
+Рукав 10х18,5 - 1,6 ГОСТ 10362-763
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукав 10*18,5
+Answer: "
+"Рукав 25-35-1,6","Context information is below.
+---------------------
+Рукав 10х18,5 - 1,6 ГОСТ 10362-763
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукав 25-35-1,6
+Answer: "
+"Рукав 55 мм м/в МБС, Р8 (Fg)","Context information is below.
+---------------------
+Рукав 55мм. н/в, МБС, Р8 (Fg)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукав 55 мм м/в МБС, Р8 (Fg)
+Answer: "
+Рукав Б-2-50-5,"Context information is below.
+---------------------
+Рукав Б-2-50-5 ГОСТ 5398-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукав Б-2-50-5
+Answer: "
+Рукав пожежний 51 мм,"Context information is below.
+---------------------
+Рукав пожежний 51мм ТИПК-ГРН-50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукав пожежний 51 мм
+Answer: "
+Рукав пожежний 66 мм,"Context information is below.
+---------------------
+Рукав пожежний 66мм ТИПК-ГРН-70
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукав пожежний 66 мм
+Answer: "
+Рукавиці нітрилові одноразові 8 mil 50/BX Extra Larg,"Context information is below.
+---------------------
+Рукавиці нітрилові одноразові 8 mil 50/BX Extra Large
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці нітрилові одноразові 8 mil 50/BX Extra Larg
+Answer: "
+Рукавиці нітрилові одноразові 8 mil 50/BX Larg,"Context information is below.
+---------------------
+Рукавиці нітрилові одноразові 8 mil 50/BX Large
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці нітрилові одноразові 8 mil 50/BX Larg
+Answer: "
+Рулетка 3м,"Context information is below.
+---------------------
+Рулетка 3м
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рулетка 3м
+Answer: "
+"Ручна димова граната F-5 ""зелена""","Context information is below.
+---------------------
+Ручна димова граната F-5 ""зелена""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната F-5 ""зелена""
+Answer: "
+Ручна димова граната HGR DM45 KM,"Context information is below.
+---------------------
+Ручна димова граната HGR DM45 KM
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната HGR DM45 KM
+Answer: "
+Ручна димова граната MK17 GREEN SMOKE,"Context information is below.
+---------------------
+Ручна димова граната MK17 GREEN SMOKE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната MK17 GREEN SMOKE
+Answer: "
+Ручна димова граната М(MK)17  GREEN SMOKE,"Context information is below.
+---------------------
+Ручна димова граната М(MK)17 GREEN SMOKE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната М(MK)17  GREEN SMOKE
+Answer: "
+Ручна димова граната М18  GREEN SMOKE,"Context information is below.
+---------------------
+Ручна димова граната М18 GREEN SMOKE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната М18  GREEN SMOKE
+Answer: "
+Ручна димова граната М18  RED SMOKE,"Context information is below.
+---------------------
+Ручна димова граната М18 RED SMOKE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната М18  RED SMOKE
+Answer: "
+Ручна димова граната М18  VIOLET SMOKE,"Context information is below.
+---------------------
+Ручна димова граната М18 VIOLET SMOKE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната М18  VIOLET SMOKE
+Answer: "
+Ручна димова граната М83,"Context information is below.
+---------------------
+Ручна димова граната М83
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната М83
+Answer: "
+Ручна димошумова граната F-10,"Context information is below.
+---------------------
+Ручна димошумова граната F-10
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димошумова граната F-10
+Answer: "
+Ручна сигнальна граната L-306,"Context information is below.
+---------------------
+Ручна сигнальна граната L-306
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна сигнальна граната L-306
+Answer: "
+РЯ-С3,"Context information is below.
+---------------------
+РПВ-16
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РЯ-С3
+Answer: "
+С-28,"Context information is below.
+---------------------
+Сверло 28.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: С-28
+Answer: "
+Сальник 13*25,"Context information is below.
+---------------------
+Сальник 13х25
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сальник 13*25
+Answer: "
+Сальник 29*50,"Context information is below.
+---------------------
+Сальник 29х50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сальник 29*50
+Answer: "
+"Сверло діаметром 10,2","Context information is below.
+---------------------
+Сверло 10,2 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 10,2
+Answer: "
+"Сверло діаметром 10,8","Context information is below.
+---------------------
+Сверло 10,8 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 10,8
+Answer: "
+"Сверло діаметром 12,5","Context information is below.
+---------------------
+Сверло 12,5 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 12,5
+Answer: "
+"Сверло діаметром 14,5","Context information is below.
+---------------------
+Сверло 14,5 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 14,5
+Answer: "
+"Сверло діаметром 16,0","Context information is below.
+---------------------
+Сверло 16.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 16,0
+Answer: "
+"Сверло діаметром 17,0","Context information is below.
+---------------------
+Сверло 17.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 17,0
+Answer: "
+"Сверло діаметром 18,0","Context information is below.
+---------------------
+Сверло 18.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 18,0
+Answer: "
+"Сверло діаметром 19,0","Context information is below.
+---------------------
+Сверло 19.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 19,0
+Answer: "
+"Сверло діаметром 20,0","Context information is below.
+---------------------
+Сверло 20.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 20,0
+Answer: "
+"Сверло діаметром 26,0 мм","Context information is below.
+---------------------
+Сверло 26.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 26,0 мм
+Answer: "
+"Сверло діаметром 27,0 мм","Context information is below.
+---------------------
+Сверло 27.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 27,0 мм
+Answer: "
+"Сверло діаметром 28,0 мм","Context information is below.
+---------------------
+Сверло 28.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 28,0 мм
+Answer: "
+"Сверло діаметром 29,0 мм","Context information is below.
+---------------------
+Сверло 29.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 29,0 мм
+Answer: "
+"Сверло діаметром 30,0 мм","Context information is below.
+---------------------
+Сверло 30.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 30,0 мм
+Answer: "
+"Сверло діаметром 32,0 мм","Context information is below.
+---------------------
+Сверло 32.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло діаметром 32,0 мм
+Answer: "
+Сверло з хвост. діаметром 5,"Context information is below.
+---------------------
+Сверло з хвост. діам. 5 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло з хвост. діаметром 5
+Answer: "
+Сверло з хвост. діаметром 6,"Context information is below.
+---------------------
+Сверло з хвост. діам. 6 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло з хвост. діаметром 6
+Answer: "
+Сверло з хвост. діаметром 8,"Context information is below.
+---------------------
+Сверло з хвост. діам. 8мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло з хвост. діаметром 8
+Answer: "
+"Сверло фрезерне діаметром 18,0","Context information is below.
+---------------------
+Сверло фрезерне 18.0 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сверло фрезерне діаметром 18,0
+Answer: "
+Свіча А-11,"Context information is below.
+---------------------
+Свіча А-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Свіча А-11
+Answer: "
+СД-55,"Context information is below.
+---------------------
+Димові гранати РДГ-55Ч
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СД-55
+Answer: "
+"Секундомер ""Агат""","Context information is below.
+---------------------
+Секундомір ""Агат""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Секундомер ""Агат""
+Answer: "
+СО АЛ-4М,"Context information is below.
+---------------------
+Спеціальне обладнання АЛ-4М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СО АЛ-4М
+Answer: "
+СО ДКВ-1М,"Context information is below.
+---------------------
+Сумка до ПМК
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СО ДКВ-1М
+Answer: "
+СО ПРХМ-Д,"Context information is below.
+---------------------
+Спеціальне обладнання ПРХМ-Д
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СО ПРХМ-Д
+Answer: "
+СО РАГ-2М,"Context information is below.
+---------------------
+Спеціальне обладнання РАГ-2М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СО РАГ-2М
+Answer: "
+СО УАЗ-469РХ,"Context information is below.
+---------------------
+Спеціальне обладнання УАЗ-469РХ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СО УАЗ-469РХ
+Answer: "
+Спеціальна машина димопуску НММWV М56,"Context information is below.
+---------------------
+Спеціальна машина димопуску HMMWV M56 Coyote
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Спеціальна машина димопуску НММWV М56
+Answer: "
+Спеціальне обладнання АЛ-4М,"Context information is below.
+---------------------
+Спеціальне обладнання АЛ-4М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Спеціальне обладнання АЛ-4М
+Answer: "
+Спеціальне обладнання ПРХМ-Д,"Context information is below.
+---------------------
+Спеціальне обладнання ПРХМ-Д
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Спеціальне обладнання ПРХМ-Д
+Answer: "
+Стенд РПО-А,"Context information is below.
+---------------------
+Стенд РПО-А
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Стенд РПО-А
+Answer: "
+Суміш димова FOGOIL SGF-2,"Context information is below.
+---------------------
+Суміш димова FOG OIL SGF-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Суміш димова FOGOIL SGF-2
+Answer: "
+Сумка XHSM; JU-GYB-03-BLKM,"Context information is below.
+---------------------
+Сумка XHSM; JU-GJB-03-BLKM
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сумка XHSM; JU-GYB-03-BLKM
+Answer: "
+Сумка ПМК,"Context information is below.
+---------------------
+Сумка до ПМК
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сумка ПМК
+Answer: "
+СФ-3,"Context information is below.
+---------------------
+Порошок СФ-3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СФ-3
+Answer: "
+СХМ-М,"Context information is below.
+---------------------
+Столи хімічного майстра СХМ-М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СХМ-М
+Answer: "
+Таблетки Potassium lodide Tablets,"Context information is below.
+---------------------
+Таблетки Potassium Iodide Tablets
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Таблетки Potassium lodide Tablets
+Answer: "
+ТДА-2К,"Context information is below.
+---------------------
+Годинник
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ТДА-2К
+Answer: "
+ТДА-2М,"Context information is below.
+---------------------
+Спеціальні машини ТДА-2М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ТДА-2М
+Answer: "
+ТДА-М,"Context information is below.
+---------------------
+ТЕСТОВЕ МАЙНО
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ТДА-М
+Answer: "
+Терен-6,"Context information is below.
+---------------------
+Виріб ""ТЕРЕН-6""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Терен-6
+Answer: "
+Тест набори для BioFire,"Context information is below.
+---------------------
+Набори ОР та ДДДР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тест набори для BioFire
+Answer: "
+Точило електричне,"Context information is below.
+---------------------
+Точило електричне
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Точило електричне
+Answer: "
+Трубка мідна 18*1,"Context information is below.
+---------------------
+Трубка мідна 18х1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Трубка мідна 18*1
+Answer: "
+Трубка мідна 8*1,"Context information is below.
+---------------------
+Трубка мідна 8х1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Трубка мідна 8*1
+Answer: "
+УАЗ-496РХ,"Context information is below.
+---------------------
+Спеціальне обладнання УАЗ-469РХ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УАЗ-496РХ
+Answer: "
+Уайт спирт,"Context information is below.
+---------------------
+Уайт спирт
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Уайт спирт
+Answer: "
+Уайт спірит (банка),"Context information is below.
+---------------------
+Уайт-спірит
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Уайт спірит (банка)
+Answer: "
+УГ-2,"Context information is below.
+---------------------
+Газоаналізатори УГ-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УГ-2
+Answer: "
+УДШ-У ВІСТ,"Context information is below.
+---------------------
+Шашки димові УДШ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ-У ВІСТ
+Answer: "
+УДШ-УП ВІСТ,"Context information is below.
+---------------------
+Уніфікована димова шашка УДШ-УП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ-УП ВІСТ
+Answer: "
+УДШ-УПМ,"Context information is below.
+---------------------
+Уніфікована димова шашка УДШ-УП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ-УПМ
+Answer: "
+УКіС до ГСА,"Context information is below.
+---------------------
+УКІС до ГСА
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УКіС до ГСА
+Answer: "
+Уніфікована димова шашка УДШ-УНМ,"Context information is below.
+---------------------
+Уніфікована димова шашка УДШ-У
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Уніфікована димова шашка УДШ-УНМ
+Answer: "
+Установка запуску СХТ,"Context information is below.
+---------------------
+Установка запуску СХТ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Установка запуску СХТ
+Answer: "
+Установка УМУ-1,"Context information is below.
+---------------------
+Установки УМУ-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Установка УМУ-1
+Answer: "
+Учбовий розріз ІП-5,"Context information is below.
+---------------------
+Учбові розрізи ІП-5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Учбовий розріз ІП-5
+Answer: "
+Учбовий розріз ПМГ-2,"Context information is below.
+---------------------
+Учбові розрізи ПМГ-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Учбовий розріз ПМГ-2
+Answer: "
+Фарба біла,"Context information is below.
+---------------------
+Фарба біла
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фарба біла
+Answer: "
+Фарба емаль ПФ-115 хакі,"Context information is below.
+---------------------
+Фарба емаль ПФ-115 хакі
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фарба емаль ПФ-115 хакі
+Answer: "
+Фарба коричнева,"Context information is below.
+---------------------
+Фарба коричнева
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фарба коричнева
+Answer: "
+Фарба чорна,"Context information is below.
+---------------------
+Фарба чорна
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фарба чорна
+Answer: "
+ФВА-50/25,"Context information is below.
+---------------------
+Агрегат ФВА 50/25
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ФВА-50/25
+Answer: "
+ФЗК-2Б,"Context information is below.
+---------------------
+Фарба чорна
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ФЗК-2Б
+Answer: "
+Фільтруюча коробка MOF-6,"Context information is below.
+---------------------
+Фільтруюча коробка MOF-6
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруюча коробка MOF-6
+Answer: "
+Фільтруюча коробка NBC-77 SOF,"Context information is below.
+---------------------
+Фільтруюча коробка NBC-77 SOF
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруюча коробка NBC-77 SOF
+Answer: "
+Фільтруюча коробка NBC-77 SOF (НЗ),"Context information is below.
+---------------------
+Фільтруюча коробка NBC-77 SOF
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруюча коробка NBC-77 SOF (НЗ)
+Answer: "
+Фільтруюча коробка NBC-77 SOF (ПЗ),"Context information is below.
+---------------------
+Фільтруюча коробка NBC-77 SOF
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруюча коробка NBC-77 SOF (ПЗ)
+Answer: "
+Фільтруюча коробка С2А1,"Context information is below.
+---------------------
+Фільтруюча коробка C2A1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруюча коробка С2А1
+Answer: "
+Фільтруючий елемент до лицьової частини  M-50,"Context information is below.
+---------------------
+Фільтруючий елемент до лицьової частини  M-50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруючий елемент до лицьової частини  M-50
+Answer: "
+ФП-1000,"Context information is below.
+---------------------
+Флакон ФП-1000
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ФП-1000
+Answer: "
+ХДС (хімічне джерело світла),"Context information is below.
+---------------------
+Сверло з хвост. діам. 8мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ХДС (хімічне джерело світла)
+Answer: "
+Хімічне джерело світла ChemLigth,"Context information is below.
+---------------------
+Хімічне джерело світла ChemLigth
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Хімічне джерело світла ChemLigth
+Answer: "
+Хомут 17*19,"Context information is below.
+---------------------
+Хомут 17-19
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Хомут 17*19
+Answer: "
+Хомут 34-37,"Context information is below.
+---------------------
+Хомут 34-37
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Хомут 34-37
+Answer: "
+Хомут 50-70,"Context information is below.
+---------------------
+Хомут 50-70
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Хомут 50-70
+Answer: "
+Цезій-137,"Context information is below.
+---------------------
+Цезій-137
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Цезій-137
+Answer: "
+Чохол на АСП,"Context information is below.
+---------------------
+Чохол до ОП-1М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чохол на АСП
+Answer: "
+ШД-ММ,"Context information is below.
+---------------------
+Шашки димові ШД-ММ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ШД-ММ
+Answer: "
+Шнур нейлоновий The Brash Man BUNGEENYLON-24,"Context information is below.
+---------------------
+Шнур нейлоновий The Brush Man BUNGEE-NYLON-24
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Шнур нейлоновий The Brash Man BUNGEENYLON-24
+Answer: "
+Шомпол,"Context information is below.
+---------------------
+Шомпол
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Шомпол
+Answer: "
+Шпатель сталевий діаметр 6,"Context information is below.
+---------------------
+Шпатель сталевий 6 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Шпатель сталевий діаметр 6
+Answer: "
+Щітка по металу,"Context information is below.
+---------------------
+Щітка до металу
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Щітка по металу
+Answer: "
+Детектор MultiRae Pro PCM-6248,"Context information is below.
+---------------------
+Детектор Multi Rae, Pro PGM-6248
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Детектор MultiRae Pro PCM-6248
+Answer: "
+АГВ-ЗУ,"Context information is below.
+---------------------
+Зубило
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АГВ-ЗУ
+Answer: "
+Адаптер Draeger DIRA Dongle Adapter,"Context information is below.
+---------------------
+Адаптер Draeger DIRA Dongle Adapter
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Адаптер Draeger DIRA Dongle Adapter
+Answer: "
+Адаптер USB з дротом Draeger DIRA,"Context information is below.
+---------------------
+Адаптер USB з дротом Draeger DIRA
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Адаптер USB з дротом Draeger DIRA
+Answer: "
+Аналітичний комплект Quicksilver,"Context information is below.
+---------------------
+Аналітичний комплект Quicksilver
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Аналітичний комплект Quicksilver
+Answer: "
+Багаторазові антистатичні захисні пакети,"Context information is below.
+---------------------
+Багаторазові антистатичні захисні пакети
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Багаторазові антистатичні захисні пакети
+Answer: "
+Балон для калібрування Draeger 103L 100ppm,"Context information is below.
+---------------------
+Балон для калібрування Draeger 103L 100 ppm C4H8
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Балон для калібрування Draeger 103L 100ppm
+Answer: "
+"Балон для калібрування Draeger 58L CH4,COH2S","Context information is below.
+---------------------
+Балон для калібрування Draeger 58L CH4, CO, H2S, O2, CO2/N2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Балон для калібрування Draeger 58L CH4,COH2S
+Answer: "
+"Балон для калібрування Draeger 103L,100%","Context information is below.
+---------------------
+Балон для калібрування Draeger 103L 100 ppm C4H8
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Балон для калібрування Draeger 103L,100%
+Answer: "
+Басейн для деконтамінації AIR WALL,"Context information is below.
+---------------------
+Басейн для деконтамінації Air Wall decon pool 3'x3'x1'
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Басейн для деконтамінації AIR WALL
+Answer: "
+Басейн для деконтамінації Gogoberm 4*4*4,"Context information is below.
+---------------------
+Басейн для деконтамінації Gogo berm 4x4x4
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Басейн для деконтамінації Gogoberm 4*4*4
+Answer: "
+Бахіли  одноразові Poly Co,"Context information is below.
+---------------------
+Бахіли одноразові PolyCo
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бахіли  одноразові Poly Co
+Answer: "
+"Блок живлення 24 VDC/1,33A","Context information is below.
+---------------------
+Блок живлення 24VDC/1,33A
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Блок живлення 24 VDC/1,33A
+Answer: "
+Відро відстійника басейна для деконтамінації,"Context information is below.
+---------------------
+Відро відстійника байсейна для деконтамінації (синє)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Відро відстійника басейна для деконтамінації
+Answer: "
+Воднева трубка для АР 4С(зелена),"Context information is below.
+---------------------
+Воднева трубка для AP4C (зелена)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Воднева трубка для АР 4С(зелена)
+Answer: "
+"Газова суміш для калібрування в алюмінієвому балоні 34л Rae System( CN4,O2,H2S,CO)","Context information is below.
+---------------------
+Газова суміш для калібрування в алюмінієвому балоні 34л Rae Systems (суміш CH4, O2, H2S, CO)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Газова суміш для калібрування в алюмінієвому балоні 34л Rae System( CN4,O2,H2S,CO)
+Answer: "
+Газовий аналізатор Draeger X-am 8000,"Context information is below.
+---------------------
+Газовий аналізатор Draeger X-am 8000
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Газовий аналізатор Draeger X-am 8000
+Answer: "
+Детектор ізотопів Ludlum Frisker Model 26-1,"Context information is below.
+---------------------
+Детектор ізотопів Ludlum Frisker Model 26-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Детектор ізотопів Ludlum Frisker Model 26-1
+Answer: "
+Дозиметр-радіометр Radeye AB 100,"Context information is below.
+---------------------
+Дозиметр‑радіометр Radeye AB100
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Дозиметр-радіометр Radeye AB 100
+Answer: "
+Дозиметр-радіометр пошуковий Ekotest МКС-11ГН СПЕКТРА,"Context information is below.
+---------------------
+Дозиметр – радіометр універсальний МКС-У
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Дозиметр-радіометр пошуковий Ekotest МКС-11ГН СПЕКТРА
+Answer: "
+Евакуаційний ковпак Honey well|Niosh,"Context information is below.
+---------------------
+Евакуаційний ковпак Honeywell/Niosh
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Евакуаційний ковпак Honey well|Niosh
+Answer: "
+Електрохімічний сенсор кисню PbO2 4r+MultiRae,"Context information is below.
+---------------------
+Електрохімічний сенсор кисню PbO2 4r+ MultiRae Pro Sensor
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Електрохімічний сенсор кисню PbO2 4r+MultiRae
+Answer: "
+Запасна літій-залізо-фосфатна батарея для детектора ранцевого типу Т-1055.00.00,"Context information is below.
+---------------------
+Запасна літій-залізо-фосфатна батарея для детектора ранцевого типу T-1055.00.00
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Запасна літій-залізо-фосфатна батарея для детектора ранцевого типу Т-1055.00.00
+Answer: "
+Засіб для миття обладнання Dawn dish,"Context information is below.
+---------------------
+Засіб для миття обладнання Dawn dish detergent
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Засіб для миття обладнання Dawn dish
+Answer: "
+Захисна маска Watchbird SAFEgaiter,"Context information is below.
+---------------------
+Захисна маска Watchbird SAFEgaiter
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Захисна маска Watchbird SAFEgaiter
+Answer: "
+Захисний костюм Blauer Multi-Threat Ensemble,"Context information is below.
+---------------------
+Захисний костюм Blauer Multi-Threat Ensemble
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Захисний костюм Blauer Multi-Threat Ensemble
+Answer: "
+"Захисний костюм Lion ERS розміри (S,M)","Context information is below.
+---------------------
+Захисний костюм Lion ERS розміри (S, M)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Захисний костюм Lion ERS розміри (S,M)
+Answer: "
+"Захисний костюм Lion ERS розміри (L,XL)","Context information is below.
+---------------------
+Захисний костюм Lion ERS розміри (L, XL)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Захисний костюм Lion ERS розміри (L,XL)
+Answer: "
+Ізобутилен в стальному балоні 34л Rae Systems,"Context information is below.
+---------------------
+Ізобутилен в стальному балоні 34л Rae Systems
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ізобутилен в стальному балоні 34л Rae Systems
+Answer: "
+Ізолюючий дихальний комп. AVON FM53,"Context information is below.
+---------------------
+Ізолюючий дихальний комплект AVON FM53
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ізолюючий дихальний комп. AVON FM53
+Answer: "
+Індикаторний папір M9(рулон),"Context information is below.
+---------------------
+Індикаторний папір M9 (рулон)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Індикаторний папір M9(рулон)
+Answer: "
+Індикаторний папір M8,"Context information is below.
+---------------------
+Індикаторний папір M8
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Індикаторний папір M8
+Answer: "
+Індикаторний папір Ph Paper-0-13,"Context information is below.
+---------------------
+Індикаторний папір pH Paper - 0-13
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Індикаторний папір Ph Paper-0-13
+Answer: "
+Камера GOPro (pro 10 Black),"Context information is below.
+---------------------
+Камера GoPro (pro 10 Black)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Камера GOPro (pro 10 Black)
+Answer: "
+Карта пам'яті San Disk Extreme 64GB,"Context information is below.
+---------------------
+Карта пам'яті SanDisk Extreme PLUS microSDXC 64 GB
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Карта пам'яті San Disk Extreme 64GB
+Answer: "
+Каталітичний сенсор Mylti Rae Pro,"Context information is below.
+---------------------
+Електричний конвертер
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Каталітичний сенсор Mylti Rae Pro
+Answer: "
+Кейс для комплекту Drager CDS,"Context information is below.
+---------------------
+Кейс для комплекту Draeger CDS
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс для комплекту Drager CDS
+Answer: "
+Кейс Guardique Extreme 620H250,"Context information is below.
+---------------------
+Кейс Guardique Extreme 620H250
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Guardique Extreme 620H250
+Answer: "
+Кейс Nanuk 975W,"Context information is below.
+---------------------
+Кейс Nanuk 975W
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Nanuk 975W
+Answer: "
+Кейс Pelican 1510,"Context information is below.
+---------------------
+Кейс Pelican 1510
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Pelican 1510
+Answer: "
+Кейс Pelican 1740,"Context information is below.
+---------------------
+Кейс Pelican 1740
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Pelican 1740
+Answer: "
+Кейс Pilican (без органайзерів),"Context information is below.
+---------------------
+Кейс Pelican 1650 (без органайзерів)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Pilican (без органайзерів)
+Answer: "
+Клейка стрічка для роботи з небезпечними матеріалами,"Context information is below.
+---------------------
+Клейка стрічка для роботи з небезпечними матеріалами
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Клейка стрічка для роботи з небезпечними матеріалами
+Answer: "
+Комплект індикаторних трубок Draeger CDS I,"Context information is below.
+---------------------
+Комплект індикаторних трубок Draeger CDS І
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Комплект індикаторних трубок Draeger CDS I
+Answer: "
+Комплект індикаторних трубок Draeger CDC V,"Context information is below.
+---------------------
+Набір для одночасного тестування з подовжувачем 1м Draeger CDC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Комплект індикаторних трубок Draeger CDC V
+Answer: "
+Комплект запасних частин Draeger E-Set Accuro,"Context information is below.
+---------------------
+Комплект запасних частин Draeger E-Set Accuro
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Комплект запасних частин Draeger E-Set Accuro
+Answer: "
+Комплекти аналізу ДНК цільових патогенів Razor 10,"Context information is below.
+---------------------
+Комплекти аналізу ДНК цільових патогенів Razor 10
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Комплекти аналізу ДНК цільових патогенів Razor 10
+Answer: "
+Компресор Bauer DMT 10-GK,"Context information is below.
+---------------------
+Компресор Bauer DMT10-GK
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Компресор Bauer DMT 10-GK
+Answer: "
+Контейнер для води NRS Big Basin,"Context information is below.
+---------------------
+Контейнер для води NRS Big Basin
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Контейнер для води NRS Big Basin
+Answer: "
+Контролер Auto RAE 2 з кінцевим адаптером,"Context information is below.
+---------------------
+Контролер AutoRAE 2 з кінцевим адаптером
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Контролер Auto RAE 2 з кінцевим адаптером
+Answer: "
+Костюм Bizter ST 70,"Context information is below.
+---------------------
+Костюм Biztex ST70
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Костюм Bizter ST 70
+Answer: "
+Кришки фільтрів AVON Auto,"Context information is below.
+---------------------
+Кришки фільтрів AVON Auto
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кришки фільтрів AVON Auto
+Answer: "
+Лицьова частина Scott FRR Mask,"Context information is below.
+---------------------
+Лицьова частина Scott FRR Mask
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лицьова частина Scott FRR Mask
+Answer: "
+Лосьйон для деконтамінації ураженої шкіри RSDL 42 ml,"Context information is below.
+---------------------
+Лосьйон для деконтамінації ураженої шкіри RSDL 42 ml
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Лосьйон для деконтамінації ураженої шкіри RSDL 42 ml
+Answer: "
+Метеометр Kestrel 5500,"Context information is below.
+---------------------
+Метеометр Kestrel 5500
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Метеометр Kestrel 5500
+Answer: "
+Метеостанція Sencor SWS 9700,"Context information is below.
+---------------------
+Метеостанція Sencor SWS 9700
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Метеостанція Sencor SWS 9700
+Answer: "
+Модульна станція для авт.перевірки та калібр.,"Context information is below.
+---------------------
+Електролітна суміш
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Модульна станція для авт.перевірки та калібр.
+Answer: "
+Модуль розширення… Draeger x-dock..8000,"Context information is below.
+---------------------
+Модульна станція для автоматичної перевірки та калібрування Draeger X-dock 6300
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Модуль розширення… Draeger x-dock..8000
+Answer: "
+Мультипаливний пальник  Optimus Polaris Optifuel,"Context information is below.
+---------------------
+Мультипаливний пальник Optimus Polaris Optifuel
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мультипаливний пальник  Optimus Polaris Optifuel
+Answer: "
+Набір для одночасного тестування з подовжувачем 1м Draeger CDC,"Context information is below.
+---------------------
+Набір для одночасного тестування з подовжувачем 1м Draeger CDC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Набір для одночасного тестування з подовжувачем 1м Draeger CDC
+Answer: "
+Накрутний фільтр Mylti Rae Pro screw on filter tip,"Context information is below.
+---------------------
+Накрутний фільтр MultiRae screw on filter tip
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Накрутний фільтр Mylti Rae Pro screw on filter tip
+Answer: "
+Насос газового детектора Draeger accuro,"Context information is below.
+---------------------
+Насос газового детектора Draeger accuro
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Насос газового детектора Draeger accuro
+Answer: "
+Одноразовий пластиковий пінцет Unsted Scientif,"Context information is below.
+---------------------
+Одноразовий пластиковий пінцет United Scientific
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Одноразовий пластиковий пінцет Unsted Scientif
+Answer: "
+Органайзер секційний Pelikan Divider Set 1650,"Context information is below.
+---------------------
+Органайзер секційний Pelican Divider Set 1650
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Органайзер секційний Pelikan Divider Set 1650
+Answer: "
+Органайзер для кришки Pelikan 1650,"Context information is below.
+---------------------
+Кейс Pelican 1650 (без органайзерів)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Органайзер для кришки Pelikan 1650
+Answer: "
+Пакет поліетиленовий 30*40,"Context information is below.
+---------------------
+Пакет поліетиленовий 30""х40""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пакет поліетиленовий 30*40
+Answer: "
+Пакет поліетиленовий 38*65,"Context information is below.
+---------------------
+Пакет поліетиленовий 38""x65""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пакет поліетиленовий 38*65
+Answer: "
+Пакет програмного забезпечення/гарантійної підтримки приладу FirstDefender RM,"Context information is below.
+---------------------
+Пакет програмного забезпечення/гарантійної підтримки приладу FirstDefender RM
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пакет програмного забезпечення/гарантійної підтримки приладу FirstDefender RM
+Answer: "
+Паливні пляшки Optimus Polaris Optifuel,"Context information is below.
+---------------------
+Паливні пляшки Optimus Polaris Optifuel
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Паливні пляшки Optimus Polaris Optifuel
+Answer: "
+Персональний детектор радіації Polimaster RM 1703 GNA-II,"Context information is below.
+---------------------
+Персональний детектор радіації Polimaster PM1703GNA-II
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Персональний детектор радіації Polimaster RM 1703 GNA-II
+Answer: "
+Підставка Auto RAE 2 для калібрування приладу Multi RAE,"Context information is below.
+---------------------
+Підставка AutoRAE 2 для калібрування приладу MultiRAE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Підставка Auto RAE 2 для калібрування приладу Multi RAE
+Answer: "
+Піпетки 5 мл.,"Context information is below.
+---------------------
+Піпетки 5ml
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Піпетки 5 мл.
+Answer: "
+Планшет Panasonic Tough Pad FZ G2,"Context information is below.
+---------------------
+Планшет Panasonic ToughPad FZ G2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Планшет Panasonic Tough Pad FZ G2
+Answer: "
+Пластиковий пакет 9*12,"Context information is below.
+---------------------
+Пластиковий пакет 9х12""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пластиковий пакет 9*12
+Answer: "
+Пластиковий пакет 24*24,"Context information is below.
+---------------------
+Пластиковий пакет 24х24
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пластиковий пакет 24*24
+Answer: "
+Плівка лабораторна Parafilm(4*125 ft),"Context information is below.
+---------------------
+Плівка лабораторна Parafilm (4"" x 125 ft)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Плівка лабораторна Parafilm(4*125 ft)
+Answer: "
+Плівка лабораторна Parafilm(2*250 ft),"Context information is below.
+---------------------
+Плівка лабораторна Parafilm (2"" x 250 ft)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Плівка лабораторна Parafilm(2*250 ft)
+Answer: "
+Пристрій для визначення радіаційних ізотопів Ortec RADEAGLET-R,"Context information is below.
+---------------------
+Пристрій для визначення радіаційних ізотопів Ortec RADEAGLET-R
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пристрій для визначення радіаційних ізотопів Ortec RADEAGLET-R
+Answer: "
+Приціл МПМ-44М,"Context information is below.
+---------------------
+Приціл МПМ-44М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Приціл МПМ-44М
+Answer: "
+Протигаз AVON FM53,"Context information is below.
+---------------------
+Протигаз AVON FM53
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Протигаз AVON FM53
+Answer: "
+Радіаційний детектор ранцевого типу з літій-залізо-фосфатною батареєю RSI backpack RSN-350,"Context information is below.
+---------------------
+Радіаційний детектор ранцевого типу з літій-залізо-фосфатною батареєю RSI backpack RSN-350-2N
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Радіаційний детектор ранцевого типу з літій-залізо-фосфатною батареєю RSI backpack RSN-350
+Answer: "
+Распірато повнолицьовий 3М Scott M95\ M110,"Context information is below.
+---------------------
+Респіратор повнолицьовий 3M Scott M95/M110
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Распірато повнолицьовий 3М Scott M95\ M110
+Answer: "
+Распіратор з примус. подачею повітря С420,"Context information is below.
+---------------------
+Реактивні патрони СХТ-40
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Распіратор з примус. подачею повітря С420
+Answer: "
+Регулятор потоку для GCA-600(для сталевих балонів),"Context information is below.
+---------------------
+Регулятор потоку для GCA-600 (для сталевих балонів)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Регулятор потоку для GCA-600(для сталевих балонів)
+Answer: "
+Регулятор потоку для C-10 (для алюміневих балонів),"Context information is below.
+---------------------
+Регулятор потоку для С-10 (для алюмінієвих балонів)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Регулятор потоку для C-10 (для алюміневих балонів)
+Answer: "
+"Регулятор тиску латунний Draeger 0,5 bar","Context information is below.
+---------------------
+Регулятор тиску латунний Draeger 0,5 bar
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Регулятор тиску латунний Draeger 0,5 bar
+Answer: "
+Рукавиці для знезараження FAST ACT,"Context information is below.
+---------------------
+Рукавиці для знезараження  FAST ACT
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці для знезараження FAST ACT
+Answer: "
+Рукавиці Cloutier Chem,"Context information is below.
+---------------------
+Рукавиці Cloutier Chem
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці Cloutier Chem
+Answer: "
+Рукавиці JLIST Block 2 JB2QU,"Context information is below.
+---------------------
+Рукавиці  JLIST Block 2 JB2GU nFR CBRN
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці JLIST Block 2 JB2QU
+Answer: "
+Рукавиці Guardian Butyl STD CBRN,"Context information is below.
+---------------------
+Рукавиці Guardian Butyl STD CBRN
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці Guardian Butyl STD CBRN
+Answer: "
+Ручний обприскувач (синій),"Context information is below.
+---------------------
+Ручний обприскувач (синій)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручний обприскувач (синій)
+Answer: "
+Рукавиці для знезараження Fiber Tect,"Context information is below.
+---------------------
+Рукавиці для знезараження FiberTect
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавиці для знезараження Fiber Tect
+Answer: "
+Рукавички нітрилові 100 шт.,"Context information is below.
+---------------------
+Рукавички нітрилові (100 шт)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавички нітрилові 100 шт.
+Answer: "
+Свинцевий контейнер для перевозки проб Marshfield,"Context information is below.
+---------------------
+Свинцевий контейнер для перевозки проб Marshfield
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Свинцевий контейнер для перевозки проб Marshfield
+Answer: "
+"Серветки дезінфекційні ""Нон-експрес"" ТМ ""Манорм"", 60шт.","Context information is below.
+---------------------
+Серветки дезінфекційні ""Нор-експрес"" ТМ ""Манорм"", 60 шт.
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Серветки дезінфекційні ""Нон-експрес"" ТМ ""Манорм"", 60шт.
+Answer: "
+Система виявлення біологічних речовин RAZOR Mk 11BioDetection,"Context information is below.
+---------------------
+Система виявлення біологічних речовин RAZOR Mk II BioDetection
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Система виявлення біологічних речовин RAZOR Mk 11BioDetection
+Answer: "
+Система гідратації CBRN,"Context information is below.
+---------------------
+Система гідратації CBRN
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Система гідратації CBRN
+Answer: "
+Скребки для відбору проб Proengin S 4PE,"Context information is below.
+---------------------
+Cкребки для відбору проб Proengin S4PE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Скребки для відбору проб Proengin S 4PE
+Answer: "
+Спектроскопічний аналізатор FirstDefender RM S1-T,"Context information is below.
+---------------------
+Спектроскопічний аналізатор FirstDefender RM S1-T
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Спектроскопічний аналізатор FirstDefender RM S1-T
+Answer: "
+Суміш димова ДС-56У (зимова),"Context information is below.
+---------------------
+Суміш димова ДС-56У (зимова)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Суміш димова ДС-56У (зимова)
+Answer: "
+Сумка  GP POUCH 6*6*3,"Context information is below.
+---------------------
+Сумка GP POUCH 6x6x3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сумка  GP POUCH 6*6*3
+Answer: "
+Сумка Field Kit/Deployment Bag,"Context information is below.
+---------------------
+Сумка Field Kit/Deployment Bag CAMS 3.0 RANGER GREEN
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сумка Field Kit/Deployment Bag
+Answer: "
+Сухий хлорний засіб для деконтамінації Dry Chlorine,"Context information is below.
+---------------------
+Cухий хлорний засіб для деконтамінації Dry Chlorine (pool shock) hazmat box
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сухий хлорний засіб для деконтамінації Dry Chlorine
+Answer: "
+Тактичний комплект Watchbird SAFEKit (Захисни маска SAFEgaiter+окуляри SAFEgoggies),"Context information is below.
+---------------------
+Тактичний комплект Watchbird SAFEKit (Захисна маска SAFEgaiter + окуляри SAFE goggles)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тактичний комплект Watchbird SAFEKit (Захисни маска SAFEgaiter+окуляри SAFEgoggies)
+Answer: "
+Тара з під НАР С-8,"Context information is below.
+---------------------
+Тара з під НАР С-8
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тара з під НАР С-8
+Answer: "
+Тент Dcathlon,"Context information is below.
+---------------------
+Тент Decathlon
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тент Dcathlon
+Answer: "
+"Тент (без каркасу) з тканини Оксворд 600 ПВХ, з чохлом для МРВС","Context information is below.
+---------------------
+Тент (без каркасу) з тканини Оксворд 600 ПВХ, з чохлом для МРВС ""Sivalka VM-8""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тент (без каркасу) з тканини Оксворд 600 ПВХ, з чохлом для МРВС
+Answer: "
+Телескопічний зонд Drager Telescopic Probe,"Context information is below.
+---------------------
+Комбінезон захисний Tychem 6000F мод CHA5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Телескопічний зонд Drager Telescopic Probe
+Answer: "
+Тестовий набір для пошуку води,"Context information is below.
+---------------------
+Тестовий папір для пошуку води
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тестовий набір для пошуку води
+Answer: "
+Тренувальний комплект відбору проб QuickSilver,"Context information is below.
+---------------------
+Тренувальний комплект відбору проб QuickSilver
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тренувальний комплект відбору проб QuickSilver
+Answer: "
+Трубка Tygor Tubing 1\4 50ft,"Context information is below.
+---------------------
+Трубка Tygon Tubing 1/4 50ft
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Трубка Tygor Tubing 1\4 50ft
+Answer: "
+Трубка Tygor Tubing 1\8 50ft,"Context information is below.
+---------------------
+Трубка Tygon Tubing 1/4 50ft
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Трубка Tygor Tubing 1\8 50ft
+Answer: "
+Трубка для відбору проб Deaeger,"Context information is below.
+---------------------
+Трубка для відбору проб Deaeger
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Трубка для відбору проб Deaeger
+Answer: "
+Фартух Tychem,"Context information is below.
+---------------------
+Фартух TyChem
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фартух Tychem
+Answer: "
+Фільтр до LCD 3.3(Smith's Detection),"Context information is below.
+---------------------
+Фільтр до LCD 3.3 (Smith's Detection sieve)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтр до LCD 3.3(Smith's Detection)
+Answer: "
+Фільтрувальні елементи до загальновійськового протигазу-фільтр ФГМ С А2В2Е2К2SXP RD,"Context information is below.
+---------------------
+Фільтрувальні елементи до загальновійськового протигазу - фільтр ФГМ С A2B2E2K2SXP3 RD
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтрувальні елементи до загальновійськового протигазу-фільтр ФГМ С А2В2Е2К2SXP RD
+Answer: "
+Флакон з кришкою Ksmble vial,"Context information is below.
+---------------------
+Флакон з кришкою Kimble vial
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Флакон з кришкою Ksmble vial
+Answer: "
+Флакон Quicksilver,"Context information is below.
+---------------------
+Флакон Quicksilver
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Флакон Quicksilver
+Answer: "
+"Фляга для протигазу пластикова, чорна","Context information is below.
+---------------------
+Фляга для протигазу пластикова, чорна
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фляга для протигазу пластикова, чорна
+Answer: "
+Формований легкий чобіт AirBoss,"Context information is below.
+---------------------
+Формований легкий чобіт AirBoss
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Формований легкий чобіт AirBoss
+Answer: "
+Фотіонізаційний сенсор Multi Rac Pro PID ppb,"Context information is below.
+---------------------
+Фотіонізаційний сенсор Multi Rae Pro PID ppb sensor
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фотіонізаційний сенсор Multi Rac Pro PID ppb
+Answer: "
+Чоботи легкі Mira NBC CBRN Overboot,"Context information is below.
+---------------------
+Чоботи легкі Mira NBC CBRN Overboot
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чоботи легкі Mira NBC CBRN Overboot
+Answer: "
+Чоботи Dunlop CBRN Overboot,"Context information is below.
+---------------------
+Чоботи Dunlop CBRN Overboot
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чоботи Dunlop CBRN Overboot
+Answer: "
+Чохол до панчіх та рукавиць,"Context information is below.
+---------------------
+Чохли до панчіх та рукавиць
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чохол до панчіх та рукавиць
+Answer: "
+Шкарпетки хімічні,"Context information is below.
+---------------------
+Шкарпетки хімічні
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Шкарпетки хімічні
+Answer: "
+Щипці одноразові TWD,"Context information is below.
+---------------------
+Щипці одноразові TWD
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Щипці одноразові TWD
+Answer: "
+Шприци Grainger 50ml,"Context information is below.
+---------------------
+Шприци Grainger 50 ml
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Шприци Grainger 50ml
+Answer: "
+Ящик ДВП (НЗ)( Вдов'як),"Context information is below.
+---------------------
+Ящики стандартні ДВП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик ДВП (НЗ)( Вдов'як)
+Answer: "
+Ящик ДВП(Крачковський),"Context information is below.
+---------------------
+Ящики стандартні ДВП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик ДВП(Крачковський)
+Answer: "
+Ящик нестандартний (Крачковський),"Context information is below.
+---------------------
+Напильник квадратний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик нестандартний (Крачковський)
+Answer: "
+"Система вивантаження для МРВС ""SIVALKA VM-8""","Context information is below.
+---------------------
+Тент (без каркасу) з тканини Оксворд 600 ПВХ, з чохлом для МРВС ""Sivalka VM-8""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Система вивантаження для МРВС ""SIVALKA VM-8""
+Answer: "
+Кутомір СМЛН-40916871-002.01.00.00,"Context information is below.
+---------------------
+Кутомір СМЛН-40916871-002.01.00.00
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кутомір СМЛН-40916871-002.01.00.00
+Answer: "
+Тент(без каркасу) з тканини Оксворд 600ПВХ,"Context information is below.
+---------------------
+Кутник
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Тент(без каркасу) з тканини Оксворд 600ПВХ
+Answer: "
+MultiRae Pro PCM-6248,"Context information is below.
+---------------------
+Детектор Multi Rae, Pro PGM-6248
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: MultiRae Pro PCM-6248
+Answer: "
+Суміш димова ДС-56У (зимова),"Context information is below.
+---------------------
+Суміш димова ДС-56У (зимова)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Суміш димова ДС-56У (зимова)
+Answer: "
+Чоботи AirBoss,"Context information is below.
+---------------------
+Формований легкий чобіт AirBoss
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чоботи AirBoss
+Answer: "
+Чохли до панчох та рукавиць,"Context information is below.
+---------------------
+Чохли до панчіх та рукавиць
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чохли до панчох та рукавиць
+Answer: "
+Ящик ДВП,"Context information is below.
+---------------------
+Ящики стандартні ДВП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик ДВП
+Answer: "
+Ящик ДВП (НЗ),"Context information is below.
+---------------------
+Ящики стандартні ДВП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик ДВП (НЗ)
+Answer: "
+Фільтруюча коробка C2A1,"Context information is below.
+---------------------
+Фільтруюча коробка C2A1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтруюча коробка C2A1
+Answer: "
+Дозиметр-радіометр пошуковий  Ecotest МКС-11ГН СПЕКТРА,"Context information is below.
+---------------------
+Дозиметр-радіометр пошуковий Ecotest МКС-11ГН СПЕКТРА
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Дозиметр-радіометр пошуковий  Ecotest МКС-11ГН СПЕКТРА
+Answer: "
+Радіаційний детектор ранцевого типу з літій-залізо-фосфатною батареєю,"Context information is below.
+---------------------
+Додатковий компонент емульсії чорний камуфляж
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Радіаційний детектор ранцевого типу з літій-залізо-фосфатною батареєю
+Answer: "
+Планшет Panasonic Tough Pad FZG2,"Context information is below.
+---------------------
+Планшет Panasonic ToughPad FZ G2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Планшет Panasonic Tough Pad FZG2
+Answer: "
+Запасна літій-залізо-фосфатна батарея для детектора ранцевого типу,"Context information is below.
+---------------------
+Запасні комплекти ЗКП для ВПХР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Запасна літій-залізо-фосфатна батарея для детектора ранцевого типу
+Answer: "
+Фільтрувальні елементи до загальновійськового протигазу-фільтр ФГМ СА2В2Е2К2SXP3 RD,"Context information is below.
+---------------------
+Фільтрувальні елементи до загальновійськового протигазу - фільтр ФГМ С A2B2E2K2SXP3 RD
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фільтрувальні елементи до загальновійськового протигазу-фільтр ФГМ СА2В2Е2К2SXP3 RD
+Answer: "
+Універсальний набір інструментів 111од.в металевому ящику,"Context information is below.
+---------------------
+Універсальний набір інструментів 111 од. в металевому ящику TOPTUL GCAZ111A
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Універсальний набір інструментів 111од.в металевому ящику
+Answer: "
+AV99,"Context information is below.
+---------------------
+Блок живлення AV99
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: AV99
+Answer: "
+ОП-1,"Context information is below.
+---------------------
+КПО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ОП-1
+Answer: "
+Панчохи захисні,"Context information is below.
+---------------------
+Панчохи захисні
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Панчохи захисні
+Answer: "
+ПМГ-2,"Context information is below.
+---------------------
+Протигази ПМГ-2 (ЄО-62К)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПМГ-2
+Answer: "
+AP4C,"Context information is below.
+---------------------
+Воднева трубка для AP4C (зелена)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: AP4C
+Answer: "
+AVON C-50,"Context information is below.
+---------------------
+Лицьова частина AVON C-50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: AVON C-50
+Answer: "
+Blauer WZ9435A,"Context information is below.
+---------------------
+Костюм захисний Blauer WZ9435A
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Blauer WZ9435A
+Answer: "
+CALID-3,"Context information is below.
+---------------------
+Рукав 25х35-1,6 ГОСТ 10362-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: CALID-3
+Answer: "
+CBRNCF50,"Context information is below.
+---------------------
+АКБ GP 450 DKC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: CBRNCF50
+Answer: "
+DT-12,"Context information is below.
+---------------------
+Індикаторна трубка DT-12
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DT-12
+Answer: "
+FLIR FINDER 2 NG,"Context information is below.
+---------------------
+Прилад індетифікації радіоактивних ізотопів FLIR system identiFINDER 2 NG
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: FLIR FINDER 2 NG
+Answer: "
+FLIR identiFINDER R300,"Context information is below.
+---------------------
+Детектор випромінювання FLIR R400 IdentiFINDER
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: FLIR identiFINDER R300
+Answer: "
+FLIR R-400 Identifinder,"Context information is below.
+---------------------
+Детектор випромінювання FLIR R400 IdentiFINDER
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: FLIR R-400 Identifinder
+Answer: "
+"Hazard 4, 12x8 см, ідефікаційний патч, колір чорний","Context information is below.
+---------------------
+Hazard 4, 12x8 см, ідефікаційний патч, колір чорний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Hazard 4, 12x8 см, ідефікаційний патч, колір чорний
+Answer: "
+"HC-4A2 (Шашка димова плаваюча. SMOKEPOT, FLOATING)","Context information is below.
+---------------------
+Шашка димова плаваюча Smokepot, floating HC-4A2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: HC-4A2 (Шашка димова плаваюча. SMOKEPOT, FLOATING)
+Answer: "
+HEP-70,"Context information is below.
+---------------------
+Матеріал для оперативної дизактивації обслуговуючого персоналу hep-70 dox 4.1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: HEP-70
+Answer: "
+HMAK,"Context information is below.
+---------------------
+Дегазаційний прилад  HMAK
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: HMAK
+Answer: "
+"IG-GRANATE, GREEN M18","Context information is below.
+---------------------
+IG-GRANATE, HAND, GREEN SMOKE M 18 МТД
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: IG-GRANATE, GREEN M18
+Answer: "
+"IG-GRANATE, RED M18","Context information is below.
+---------------------
+IG-GRANATE, HAND, RED SMOKE M 18 МТД
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: IG-GRANATE, RED M18
+Answer: "
+"IG-GRANATE, YELLOW M18","Context information is below.
+---------------------
+IG-GRANATE, HAND, YELLOW SMOKE M 18 МТД
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: IG-GRANATE, YELLOW M18
+Answer: "
+JVA 0436,"Context information is below.
+---------------------
+Димова граната JVA 0701
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: JVA 0436
+Answer: "
+JVA 0701,"Context information is below.
+---------------------
+Димова граната JVA 0701
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: JVA 0701
+Answer: "
+JVA 1858,"Context information is below.
+---------------------
+Ручна сигнальна граната JVA 1858
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: JVA 1858
+Answer: "
+Автоінжектор Дуодот,"Context information is below.
+---------------------
+Автоінжектор Дуодот
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Автоінжектор Дуодот
+Answer: "
+Акумулятор Tenergy NiMH 2500 AA,"Context information is below.
+---------------------
+Акумулятор Tenergy NiMH 2500 mAhAA
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Акумулятор Tenergy NiMH 2500 AA
+Answer: "
+Аптечка IFAK,"Context information is below.
+---------------------
+Аптечка IFAK
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Аптечка IFAK
+Answer: "
+АРС-14,"Context information is below.
+---------------------
+Спеціальне обладнання АРС-14
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АРС-14
+Answer: "
+Балон на стисненому повітрі,"Context information is below.
+---------------------
+Балон на стисненому повітрі
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Балон на стисненому повітрі
+Answer: "
+Банка Nalgene 4 унції,"Context information is below.
+---------------------
+Банка Nalgene 4 унції
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Банка Nalgene 4 унції
+Answer: "
+Бездротовий пилосос Dyson V12 Detect Slim,"Context information is below.
+---------------------
+Бездротовий пилосос Dyson V12 Detect Slim
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бездротовий пилосос Dyson V12 Detect Slim
+Answer: "
+БЛ-1М,"Context information is below.
+---------------------
+Рукавиці БЛ-1М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: БЛ-1М
+Answer: "
+БРДМ-2РХБ,"Context information is below.
+---------------------
+Спеціальні машини БРДМ-2РХБ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: БРДМ-2РХБ
+Answer: "
+"ВВК-3,5","Context information is below.
+---------------------
+Вогнегасник ВВК-3,5
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ВВК-3,5
+Answer: "
+ВКХР,"Context information is below.
+---------------------
+Викрутка
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ВКХР
+Answer: "
+ВПХР,"Context information is below.
+---------------------
+Прилади ВПХР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ВПХР
+Answer: "
+Генератор GAMSS 100кВ,"Context information is below.
+---------------------
+Викрутка 200 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Генератор GAMSS 100кВ
+Answer: "
+Димова суміш ДС-56 (зимова),"Context information is below.
+---------------------
+Димова суміш ДС-56 (зимова)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Димова суміш ДС-56 (зимова)
+Answer: "
+Димова суміш ДС-56 (літня),"Context information is below.
+---------------------
+Димова суміш ДС-56 (літня)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Димова суміш ДС-56 (літня)
+Answer: "
+Димова суміш ДС-56У (зимова),"Context information is below.
+---------------------
+Димова суміш ДС-56У (зимова)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Димова суміш ДС-56У (зимова)
+Answer: "
+Димова суміш ДС-56У (літня),"Context information is below.
+---------------------
+Димова суміш ДС-56У (літня)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Димова суміш ДС-56У (літня)
+Answer: "
+ДК-4К,"Context information is below.
+---------------------
+Комплект ДК-4
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДК-4К
+Answer: "
+ДКВ-1М,"Context information is below.
+---------------------
+Комплект ДК-3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДКВ-1М
+Answer: "
+ДКГ-21М,"Context information is below.
+---------------------
+Дозиметр гамма-випромінення індивідуальний ДКГ-21
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДКГ-21М
+Answer: "
+Дозиметр DMC 3000 G3,"Context information is below.
+---------------------
+Дозиметр DMC 3000 G3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Дозиметр DMC 3000 G3
+Answer: "
+ДП-5В,"Context information is below.
+---------------------
+Макет-схема ДП-5В
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДП-5В
+Answer: "
+Дрель електрична,"Context information is below.
+---------------------
+Дрель електрична
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Дрель електрична
+Answer: "
+Зарядний пристрій MW9168GS,"Context information is below.
+---------------------
+Зарядний пристрій MW9168GS
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Зарядний пристрій MW9168GS
+Answer: "
+ІД-1,"Context information is below.
+---------------------
+Комплекти ІД-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІД-1
+Answer: "
+ІДПС-69,"Context information is below.
+---------------------
+Комплекти ІДП-С-69
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІДПС-69
+Answer: "
+Індикаторний папір Ph Paper-150 test,"Context information is below.
+---------------------
+Індикаторний папір pH Paper – 150 test
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Індикаторний папір Ph Paper-150 test
+Answer: "
+ІТ-36,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-36
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-36
+Answer: "
+ІТ-44,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-44
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-44
+Answer: "
+ІТ-45,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-45
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-45
+Answer: "
+ІТ-46,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-46
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-46
+Answer: "
+ІТ-51,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-51
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІТ-51
+Answer: "
+Кашалот,"Context information is below.
+---------------------
+Спеціальна машина РХБР ""Кашалот""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кашалот
+Answer: "
+Кейс Pilican Strorm iN2975,"Context information is below.
+---------------------
+Кейс Pelican 1510
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кейс Pilican Strorm iN2975
+Answer: "
+КЗО-1,"Context information is below.
+---------------------
+Комплекти КЗО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КЗО-1
+Answer: "
+КЗС,"Context information is below.
+---------------------
+Комплекти КЗО-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КЗС
+Answer: "
+Кисть для фарби 2 дюйма,"Context information is below.
+---------------------
+Кисть для фарби 2 дюйма
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кисть для фарби 2 дюйма
+Answer: "
+КіЗ АСП (літній),"Context information is below.
+---------------------
+Комплекти КІЗ для АСП (літній)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КіЗ АСП (літній)
+Answer: "
+КіЗ для ГСА-12,"Context information is below.
+---------------------
+КІЗ-Б до ГСА-12
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КіЗ для ГСА-12
+Answer: "
+Компютер,"Context information is below.
+---------------------
+Компютер
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Компютер
+Answer: "
+Кондиціонер підвищеної стійкості,"Context information is below.
+---------------------
+Відро відстійника байсейна для деконтамінації (синє)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Кондиціонер підвищеної стійкості
+Answer: "
+КРПП,"Context information is below.
+---------------------
+Комплекти КПП-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КРПП
+Answer: "
+Ложемент,"Context information is below.
+---------------------
+Ложемент
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ложемент
+Answer: "
+"Мала реактивна  система вогню ""Сівалка VM-8-G","Context information is below.
+---------------------
+Мала реактивна вогнеметна система ""SIVALKA VM-8"" на автомобільному базовому шасі Ford Ranger XLT з легкою броньованою капсулою
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мала реактивна  система вогню ""Сівалка VM-8-G
+Answer: "
+Маска FM-7700,"Context information is below.
+---------------------
+Маска FM-7700
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Маска FM-7700
+Answer: "
+Мішок прогумований,"Context information is below.
+---------------------
+Мішок прогумований
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мішок прогумований
+Answer: "
+МКС-У,"Context information is below.
+---------------------
+МК-3М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МКС-У
+Answer: "
+Набір ОР до ДДДР,"Context information is below.
+---------------------
+Набори ОР та ДДДР
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Набір ОР до ДДДР
+Answer: "
+Наметова система CAMSS 18 ТАС 35D у комплекті,"Context information is below.
+---------------------
+Індикаторні трубки ІТ-36
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Наметова система CAMSS 18 ТАС 35D у комплекті
+Answer: "
+Невелика ємність для пилу з щіткою,"Context information is below.
+---------------------
+Невелика ємність для пилу з щіткою
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Невелика ємність для пилу з щіткою
+Answer: "
+Оглядовий вимірювач Fluke 541B,"Context information is below.
+---------------------
+Оглядовий вимірювач Fluke 451B
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Оглядовий вимірювач Fluke 541B
+Answer: "
+Панорамна маска,"Context information is below.
+---------------------
+Панорамна маска
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Панорамна маска
+Answer: "
+Папір наждачний,"Context information is below.
+---------------------
+Папір наждачний
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Папір наждачний
+Answer: "
+Пенал до елементів живлення,"Context information is below.
+---------------------
+Електролітна суміш
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Пенал до елементів живлення
+Answer: "
+ПМГ,"Context information is below.
+---------------------
+Протигази ПМК-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПМГ
+Answer: "
+ПП-9,"Context information is below.
+---------------------
+Піропатрони ПП-9
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ПП-9
+Answer: "
+Принтер Epson,"Context information is below.
+---------------------
+Принтер Epson
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Принтер Epson
+Answer: "
+Принтер Star LC,"Context information is below.
+---------------------
+Принтер Star LС
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Принтер Star LC
+Answer: "
+Радіометр Colibri TTC-GPS,"Context information is below.
+---------------------
+Радіометр Colibri TTC-GPS
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Радіометр Colibri TTC-GPS
+Answer: "
+Ракель 6 дюймів,"Context information is below.
+---------------------
+Ракель 6 дюймів
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ракель 6 дюймів
+Answer: "
+РДГ-2Б,"Context information is below.
+---------------------
+Димові гранати РДГ-2Б
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-2Б
+Answer: "
+РДГ-2П,"Context information is below.
+---------------------
+Димові гранати РДГ-2П
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-2П
+Answer: "
+РДГ-2Х,"Context information is below.
+---------------------
+Димові гранати РДГ-2Х
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-2Х
+Answer: "
+РДГ-2Ч,"Context information is below.
+---------------------
+Димові гранати РДГ-2Ч
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-2Ч
+Answer: "
+РДГ-55Б,"Context information is below.
+---------------------
+Димові гранати РДГ-55Б
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-55Б
+Answer: "
+РДГ-55МБ,"Context information is below.
+---------------------
+Димові гранати РДГ-55Б
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-55МБ
+Answer: "
+РДГ-55Ч,"Context information is below.
+---------------------
+Димові гранати РДГ-55Ч
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РДГ-55Ч
+Answer: "
+"Ремені для кріплення Hampton Prodycts 1 ""Х8""","Context information is below.
+---------------------
+Ремені для кріплення Hampton Products 1"" x 8'
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ремені для кріплення Hampton Prodycts 1 ""Х8""
+Answer: "
+РЗ-2У,"Context information is below.
+---------------------
+Рецептура РД-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РЗ-2У
+Answer: "
+РУ-60,"Context information is below.
+---------------------
+Респіратори РУ-60
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РУ-60
+Answer: "
+РУ-60М,"Context information is below.
+---------------------
+Респіратори РУ-60М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РУ-60М
+Answer: "
+Рукавички нітрилові 50 в коробці,"Context information is below.
+---------------------
+Рукавички нітрилові 50 в коробці
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рукавички нітрилові 50 в коробці
+Answer: "
+РХМ-4-01,"Context information is below.
+---------------------
+Рукав 25х35-1,6 ГОСТ 10362-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: РХМ-4-01
+Answer: "
+Рюкзак Hazard 4Grill Hard Molle,"Context information is below.
+---------------------
+Рюкзак для перенесення приладів РХБ розвідки Hazard 4Grill Hard-MOLLE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Рюкзак Hazard 4Grill Hard Molle
+Answer: "
+СДУ-ДУ,"Context information is below.
+---------------------
+Система дистанційного управління димопуском СДУ-ДУ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СДУ-ДУ
+Answer: "
+Серветки CBR Multi Purpose,"Context information is below.
+---------------------
+Система гідратації CBRN
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Серветки CBR Multi Purpose
+Answer: "
+Серветки для дегазації Responder Dry Decon Kit,"Context information is below.
+---------------------
+Серветки для дегазації Responder Dry Decon Kit
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Серветки для дегазації Responder Dry Decon Kit
+Answer: "
+Спеціална машина димопуску HMMWV 56 Doyote,"Context information is below.
+---------------------
+Суміш димова ДС-56У (зимова)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Спеціална машина димопуску HMMWV 56 Doyote
+Answer: "
+Суміш димова ДС-56У (літня),"Context information is below.
+---------------------
+Суміш димова ДС-56У (літня)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Суміш димова ДС-56У (літня)
+Answer: "
+СФ-2У,"Context information is below.
+---------------------
+Порошок СФ-2У
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СФ-2У
+Answer: "
+СХТ-40,"Context information is below.
+---------------------
+Реактивні патрони СХТ-40
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: СХТ-40
+Answer: "
+УДШ,"Context information is below.
+---------------------
+Шашки димові УДШ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ
+Answer: "
+УДШ-У,"Context information is below.
+---------------------
+Уніфікована димова шашка УДШ-У
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ-У
+Answer: "
+УДШ-УП,"Context information is below.
+---------------------
+Уніфікована димова шашка УДШ-УП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ-УП
+Answer: "
+УДШ-УП,"Context information is below.
+---------------------
+Уніфікована димова шашка УДШ-УП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УДШ-УП
+Answer: "
+УіП-12,"Context information is below.
+---------------------
+Протигаз універсальний ізолюючий УІП-12
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: УіП-12
+Answer: "
+Факс Panasonic,"Context information is below.
+---------------------
+Факс Panasonic
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Факс Panasonic
+Answer: "
+ФВА-100/50,"Context information is below.
+---------------------
+Агрегат ФВА 100/50
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ФВА-100/50
+Answer: "
+Фломастери Sharpie - Fine Point,"Context information is below.
+---------------------
+Фломастери Sharpie - Fine Point
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Фломастери Sharpie - Fine Point
+Answer: "
+ФП-М-95У,"Context information is below.
+---------------------
+Флакон ФП-1000
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ФП-М-95У
+Answer: "
+ХБРЯ рюкзак знешкодження тактичний медик,"Context information is below.
+---------------------
+ХБРЯ рюкзак знешкодження тактичний медик
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ХБРЯ рюкзак знешкодження тактичний медик
+Answer: "
+Хлорне вапно,"Context information is below.
+---------------------
+Хлорне вапно
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Хлорне вапно
+Answer: "
+Хлорпікрин,"Context information is below.
+---------------------
+Хлорпікрин
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Хлорпікрин
+Answer: "
+Чохол до ОП-1М,"Context information is below.
+---------------------
+Чохол до ОП-1М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Чохол до ОП-1М
+Answer: "
+Шпатель 1 дюйм,"Context information is below.
+---------------------
+Шпатель 1 дюйм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Шпатель 1 дюйм
+Answer: "
+Ящик нестандартний,"Context information is below.
+---------------------
+Ящики не стандартні
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик нестандартний
+Answer: "
+Ящик стандартний дощатий,"Context information is below.
+---------------------
+Ящики стандартні дощаті
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик стандартний дощатий
+Answer: "
+Ящик стандартний дощатий (НЗ),"Context information is below.
+---------------------
+Ящики не стандартні
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ящик стандартний дощатий (НЗ)
+Answer: "
+DETEHIT,"Context information is below.
+---------------------
+Викрутка
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DETEHIT
+Answer: "
+DT-003,"Context information is below.
+---------------------
+Іникаторна трубка DT-003
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DT-003
+Answer: "
+DT-008,"Context information is below.
+---------------------
+Іникаторна трубка DT-008
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DT-008
+Answer: "
+DT-11,"Context information is below.
+---------------------
+Індикаторна трубка DT-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DT-11
+Answer: "
+DT-15,"Context information is below.
+---------------------
+Індикаторна трубка DT-15
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DT-15
+Answer: "
+Tychem 6000F,"Context information is below.
+---------------------
+Генератор CAMSS 100 КВт (генератор Triton (100 kw) модель TP-P100-T3-SAE)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Tychem 6000F
+Answer: "
+АГП,"Context information is below.
+---------------------
+Газосигналізатори АСП
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АГП
+Answer: "
+АКБ GP80 AAKC,"Context information is below.
+---------------------
+АКБ GP 450 DKC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ GP80 AAKC
+Answer: "
+"МКС-05 ""ТЕРРА""","Context information is below.
+---------------------
+Дозиметр – радіометр МКС-05 ""ТЕРРА""
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МКС-05 ""ТЕРРА""
+Answer: "
+ChemPro X,"Context information is below.
+---------------------
+Портативний хімічний детектор Chem Pro X
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ChemPro X
+Answer: "
+JVA 1859,"Context information is below.
+---------------------
+Ручна сигнальна граната JVA 1859
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: JVA 1859
+Answer: "
+"LCD 3,3","Context information is below.
+---------------------
+Детектор хімічних речовин LCD 3,3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: LCD 3,3
+Answer: "
+M90-D1-C,"Context information is below.
+---------------------
+Газоаналізатор M90-D1-C
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: M90-D1-C
+Answer: "
+ДМ-11,"Context information is below.
+---------------------
+Шашки димові ДМ-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ДМ-11
+Answer: "
+Зарядний пристрій Tenergy TN156,"Context information is below.
+---------------------
+Зарядний пристрій MW9168GS
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Зарядний пристрій Tenergy TN156
+Answer: "
+ІДК-1,"Context information is below.
+---------------------
+Комплекти ІДК-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІДК-1
+Answer: "
+МК-3,"Context information is below.
+---------------------
+МК-3М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МК-3
+Answer: "
+"МРВС ""SIVALKA VM-8""","Context information is below.
+---------------------
+Система вивантаження для МРВС «Sivalka VM-8» (домкрат в зборі – 2 шт., плита опорна – 2 шт.)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МРВС ""SIVALKA VM-8""
+Answer: "
+Стремянка,"Context information is below.
+---------------------
+Стремянка
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Стремянка
+Answer: "
+Blauer (Захисний костюм Blauer XRT),"Context information is below.
+---------------------
+Захисний костюм Blauer XRT
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Blauer (Захисний костюм Blauer XRT)
+Answer: "
+BX-24,"Context information is below.
+---------------------
+Речовина BX-24
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: BX-24
+Answer: "
+DESPOLABS,"Context information is below.
+---------------------
+АКБ GP 450 DKC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: DESPOLABS
+Answer: "
+KOKEN,"Context information is below.
+---------------------
+Кутник
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: KOKEN
+Answer: "
+NR 702C1 RED,"Context information is below.
+---------------------
+Сигнальні димові гранати NR702C1 RED
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: NR 702C1 RED
+Answer: "
+STE Perconal Radiation Detector (PRD) Pader,"Context information is below.
+---------------------
+STE Personal Radiation Detector (PRD) Pager
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: STE Perconal Radiation Detector (PRD) Pader
+Answer: "
+АКБ GP 450 DKC,"Context information is below.
+---------------------
+АКБ GP 450 DKC
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: АКБ GP 450 DKC
+Answer: "
+Амоній двовуглекислий,"Context information is below.
+---------------------
+Амоній двовуглекислий
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Амоній двовуглекислий
+Answer: "
+Бензиновий тример,"Context information is below.
+---------------------
+Електричний конвертер
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бензиновий тример
+Answer: "
+Бочка Л-250,"Context information is below.
+---------------------
+Рукав Б-2-50-5 ГОСТ 5398-76
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Бочка Л-250
+Answer: "
+Викрутка 200,"Context information is below.
+---------------------
+Викрутка 200 мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Викрутка 200
+Answer: "
+Вороток,"Context information is below.
+---------------------
+Вороток
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Вороток
+Answer: "
+Замок висячий,"Context information is below.
+---------------------
+Замок висячий
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Замок висячий
+Answer: "
+ИМД-31,"Context information is below.
+---------------------
+Хомут 34-37
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ИМД-31
+Answer: "
+ІД-11,"Context information is below.
+---------------------
+Індикаторна трубка DT-11
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ІД-11
+Answer: "
+Катанка 6мм,"Context information is below.
+---------------------
+Катанка 6мм
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Катанка 6мм
+Answer: "
+КП-4716,"Context information is below.
+---------------------
+КПО-1
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КП-4716
+Answer: "
+КРАЛ до АЛ-4М,"Context information is below.
+---------------------
+Комплект КРАЛ до АЛ-4
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: КРАЛ до АЛ-4М
+Answer: "
+Мишк оптична,"Context information is below.
+---------------------
+Метеокомплекти МК-3
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Мишк оптична
+Answer: "
+МК-3М,"Context information is below.
+---------------------
+МК-3М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: МК-3М
+Answer: "
+Ніж для бензотримера,"Context information is below.
+---------------------
+Балон на стисненому повітрі
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ніж для бензотримера
+Answer: "
+ОПФ,"Context information is below.
+---------------------
+Окуляри ОПФ
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: ОПФ
+Answer: "
+Підсумок AVON,"Context information is below.
+---------------------
+Підсумок до протигазів AVON
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Підсумок AVON
+Answer: "
+Плоскогубці,"Context information is below.
+---------------------
+Плоскогубці
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Плоскогубці
+Answer: "
+Плуг для мотоблока,"Context information is below.
+---------------------
+Плуг до мотоблоку ZIRKA-105
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Плуг для мотоблока
+Answer: "
+Протигаз ПМК-2,"Context information is below.
+---------------------
+Протигази ПМК-2
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Протигаз ПМК-2
+Answer: "
+Ручна димова граната М18  YELLOW SMOKE,"Context information is below.
+---------------------
+Ручна димова граната М18 YELLOW SMOKE
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Ручна димова граната М18  YELLOW SMOKE
+Answer: "
+Спеціальне обладнання РАГ-2М,"Context information is below.
+---------------------
+Спеціальне обладнання РАГ-2М
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Спеціальне обладнання РАГ-2М
+Answer: "
+Сумка з експл. документами,"Context information is below.
+---------------------
+Сумка (з експлуат. документами)
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: Сумка з експл. документами
+Answer: "
