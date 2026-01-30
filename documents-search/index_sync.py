@@ -9,6 +9,7 @@ EMBED_PROVIDER = os.getenv("EMBED_PROVIDER", "huggingface").lower()
 if EMBED_PROVIDER == "huggingface":
     os.environ["HF_HUB_OFFLINE"] = "1"
     os.environ["TRANSFORMERS_OFFLINE"] = "1"
+    os.environ["TRANSFORMERS_VERBOSITY"] = "error"  # Suppress model loading warnings
 
 import json
 import hashlib
