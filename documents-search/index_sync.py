@@ -2,6 +2,7 @@ import os
 import json
 import hashlib
 import argparse
+import shutil
 from typing import Dict, List
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.llms.ollama import Ollama
@@ -115,7 +116,23 @@ def main(force: bool = False):
     # 1. Load previous hashes
     stored_hashes = load_hashes()
 
-    if len(stored_hashes) > 0 and not force:
+    if force:
+        # Force mode: confirm and delete storage folder
+        print(f"WARNING: Force re-index will delete the entire index at '{STORAGE_DIR}'")
+        while True:
+            user_input = input("Are you sure you want to delete the index and re-index all files? (y/n): ").lower()
+            if user_input == 'y':
+                if os.path.exists(STORAGE_DIR):
+                    shutil.rmtree(STORAGE_DIR)
+                    print(f"Deleted storage folder: {STORAGE_DIR}")
+                stored_hashes = {}  # Reset stored hashes since we deleted the folder
+                break
+            elif user_input == 'n':
+                print("Force re-index canceled.")
+                return
+            else:
+                print("Invalid input. Please enter 'y' (yes) or 'n' (no).")
+    elif len(stored_hashes) > 0:
         print(f"Loaded {len(stored_hashes)} stored file hashes.")
         while True:
             user_input = input("Changes detected. Proceed with re-indexing and synchronization? (y/n): ").lower()
@@ -125,9 +142,7 @@ def main(force: bool = False):
                 print("Synchronization canceled.")
                 return
             else:
-                print("Invalid input. Please enter 'y' (yes) or 'n' (no).")
-    elif force:
-        print("Force re-index enabled. Skipping confirmation.") 
+                print("Invalid input. Please enter 'y' (yes) or 'n' (no).") 
 
     # 2. Calculate current hashes
     current_hashes = {}
@@ -217,6 +232,6 @@ def main(force: bool = False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Index and synchronize documents for semantic search.")
-    parser.add_argument("-f", "--force", action="store_true", help="Force re-index without confirmation prompt")
+    parser.add_argument("-f", "--force", action="store_true", help="Force complete re-index by deleting existing storage and re-indexing all files")
     args = parser.parse_args()
     main(force=args.force)
