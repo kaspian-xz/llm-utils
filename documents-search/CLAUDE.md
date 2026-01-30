@@ -22,9 +22,9 @@ python search.py
 ## Prerequisites
 
 - Ollama server running locally (default: http://localhost:11434)
-- Required Ollama models pulled:
-  - Embedding: `qwen3-embedding:8b` (multilingual, #1 on MTEB)
-  - LLM: `llama3.1:latest`
+- Required models:
+  - Embedding: `embeddinggemma:latest` (Ollama) or `lang-uk/ukr-paraphrase-multilingual-mpnet-base` (HuggingFace)
+  - LLM: `gemma3:4b` (Ollama)
 
 ## Configuration (.env)
 
@@ -32,8 +32,9 @@ python search.py
 |----------|---------|-------------|
 | DATA_DIR | ./data | Directory containing documents to index |
 | STORAGE_DIR | ./storage | Persisted vector store location |
-| EMBED_MODEL | qwen3-embedding:8b | Ollama embedding model (multilingual) |
-| LLM_MODEL | llama3.1:latest | Ollama LLM model |
+| EMBED_PROVIDER | huggingface | Embedding provider: `huggingface` or `ollama` |
+| EMBED_MODEL | (depends on provider) | Ollama: `embeddinggemma:latest`, HuggingFace: `lang-uk/ukr-paraphrase-multilingual-mpnet-base` |
+| LLM_MODEL | gemma3:4b | Ollama LLM model |
 | OLLAMA_BASE_URL | http://localhost:11434 | Ollama server URL |
 
 ## Architecture

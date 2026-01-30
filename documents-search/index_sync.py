@@ -1,4 +1,15 @@
 import os
+
+# Load .env first to check EMBED_PROVIDER before setting HF offline mode
+from dotenv import load_dotenv
+load_dotenv()
+
+# Enable offline mode for HuggingFace only if using HuggingFace provider
+EMBED_PROVIDER = os.getenv("EMBED_PROVIDER", "huggingface").lower()
+if EMBED_PROVIDER == "huggingface":
+    os.environ["HF_HUB_OFFLINE"] = "1"
+    os.environ["TRANSFORMERS_OFFLINE"] = "1"
+
 import json
 import hashlib
 import argparse
@@ -6,26 +17,27 @@ import shutil
 from typing import Dict, List
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.llms.ollama import Ollama
-from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.core.node_parser import SentenceSplitter
-from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv()
+# Conditional imports based on provider
+if EMBED_PROVIDER == "huggingface":
+    from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+else:
+    from llama_index.embeddings.ollama import OllamaEmbedding
 
 # --- Configuration Loaded from .env ---
 DATA_DIR = os.getenv("DATA_DIR", "./data")
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
-EMBED_MODEL = os.getenv("EMBED_MODEL", "qwen3-embedding:8b")
-LLM_MODEL = os.getenv("LLM_MODEL", "llama3.1:latest")
+EMBED_MODEL = os.getenv("EMBED_MODEL", "lang-uk/ukr-paraphrase-multilingual-mpnet-base" if EMBED_PROVIDER == "huggingface" else "embeddinggemma:latest")
+LLM_MODEL = os.getenv("LLM_MODEL", "gemma3:4b")
 
-HASH_FILE = os.path.join(STORAGE_DIR, "file_hashes.json") 
+HASH_FILE = os.path.join(STORAGE_DIR, "file_hashes.json")
 
 # --- New: Allowed Document Extensions ---
 # SimpleDirectoryReader supports various formats (PDF, DOCX, XLSX, TXT, CSV, etc.)
 ALLOWED_EXTENSIONS = {
-    '.pdf', '.doc', '.docx', 
-    '.xls', '.xlsx', 
+    '.pdf', '.doc', '.docx',
+    '.xls', '.xlsx',
     '.txt', '.csv', '.md', '.html', # Include common text/data formats
 }
 
@@ -59,13 +71,16 @@ def initialize_index() -> VectorStoreIndex:
     """Initializes or loads the index."""
     ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 
-    # Initialize Ollama embedding model
-    print(f"Loading embedding model: {EMBED_MODEL}...")
-    embed_model = OllamaEmbedding(model_name=EMBED_MODEL, base_url=ollama_base_url)
+    # Initialize embedding model based on provider
+    print(f"Loading embedding model: {EMBED_MODEL} (provider: {EMBED_PROVIDER})...")
+    if EMBED_PROVIDER == "huggingface":
+        embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
+    else:
+        embed_model = OllamaEmbedding(model_name=EMBED_MODEL, base_url=ollama_base_url)
 
     # Initialize Ollama LLM
     llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url)
-    
+
     # Storage context (Vector DB)
     if not os.path.exists(STORAGE_DIR):
         print(f"Creating a new index in {STORAGE_DIR}...")
@@ -81,26 +96,26 @@ def initialize_index() -> VectorStoreIndex:
 
 def get_files_to_process(current_hashes: Dict[str, str], stored_hashes: Dict[str, str]) -> tuple[List[str], List[str], List[str]]:
     """Determines which files need to be added, updated, or deleted."""
-    
+
     files_to_add_or_update = []
     files_to_delete = []
-    
+
     # Identify new or modified files
     for filepath, current_hash in current_hashes.items():
         if filepath not in stored_hashes or stored_hashes[filepath] != current_hash:
             files_to_add_or_update.append(filepath)
-            
+
     # Identify deleted files
     for filepath in stored_hashes.keys():
         if filepath not in current_hashes:
             files_to_delete.append(filepath)
-            
+
     # Identify unchanged files
     files_unchanged = [
-        filepath for filepath, current_hash in current_hashes.items() 
+        filepath for filepath, current_hash in current_hashes.items()
         if filepath in stored_hashes and stored_hashes[filepath] == current_hash
     ]
-            
+
     return files_to_add_or_update, files_to_delete, files_unchanged
 
 # --- Main Logic ---
@@ -142,21 +157,21 @@ def main(force: bool = False):
                 print("Synchronization canceled.")
                 return
             else:
-                print("Invalid input. Please enter 'y' (yes) or 'n' (no).") 
+                print("Invalid input. Please enter 'y' (yes) or 'n' (no).")
 
     # 2. Calculate current hashes
     current_hashes = {}
     for root, _, files in os.walk(DATA_DIR):
         for file in files:
             filepath = os.path.join(root, file)
-            
+
             # --- MODIFIED FILTER LOGIC ---
             file_extension = os.path.splitext(file)[1].lower()
 
             # Filter out non-document files (system files, temporary, non-allowed extensions)
             if file.startswith(('.', '~$')) or file.endswith(('~', '#', '.pyc', '.DS_Store')) or file_extension not in ALLOWED_EXTENSIONS:
-                 continue 
-            
+                 continue
+
             try:
                 current_hashes[filepath] = calculate_sha256(filepath)
             except Exception as e:
@@ -189,27 +204,27 @@ def main(force: bool = False):
     if files_to_delete:
         print(f"\nDeleting {len(files_to_delete)} records from the index...")
         doc_store = index.storage_context.docstore
-        
+
         docs_to_delete_ids = []
         for doc_id, doc in doc_store.docs.items():
             if doc.metadata.get('file_path') in files_to_delete:
                 docs_to_delete_ids.append(doc_id)
-                
+
         for doc_id in docs_to_delete_ids:
-            index.delete_ref_doc(doc_id, delete_from_docstore=True) 
+            index.delete_ref_doc(doc_id, delete_from_docstore=True)
             print(f"  -> Deleted doc_id {doc_id} (file was removed).")
 
     # 7. Index new/modified files
     if files_to_process:
         print(f"\nIndexing {len(files_to_process)} new/modified files...")
-        
+
         # For modified files, first delete the old records
         doc_store = index.storage_context.docstore
         for filepath in files_to_process:
             for doc_id, doc in doc_store.docs.items():
                 if doc.metadata.get('file_path') == filepath:
                     print(f"  -> Deleting old version for {os.path.basename(filepath)}")
-                    index.delete_ref_doc(doc_id, delete_from_docstore=True) 
+                    index.delete_ref_doc(doc_id, delete_from_docstore=True)
 
         # Read documents
         reader = SimpleDirectoryReader(input_files=files_to_process)
@@ -221,7 +236,7 @@ def main(force: bool = False):
 
         # Insert nodes into the index (this handles embedding automatically)
         index.insert_nodes(nodes, show_progress=True)
-        
+
         for filepath in files_to_process:
             print(f"  -> Indexed/Updated: {os.path.basename(filepath)}")
 

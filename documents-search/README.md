@@ -13,15 +13,17 @@ A local document search tool using LlamaIndex with Ollama for semantic search. D
 
 - Python 3.10+
 - [Ollama](https://ollama.ai/) running locally
-- Required Ollama models:
-  - Embedding model: `qwen3-embedding:8b` (multilingual, #1 on MTEB leaderboard)
-  - LLM model (e.g., `llama3.1`)
+- Required models:
+  - Embedding: `embeddinggemma:latest` (Ollama) or `lang-uk/ukr-paraphrase-multilingual-mpnet-base` (HuggingFace, Ukrainian-optimized)
+  - LLM: `gemma3:4b` (Ollama)
 
 Pull the models before first use:
 ```bash
-ollama pull qwen3-embedding:8b
-ollama pull llama3.1
+ollama pull embeddinggemma:latest
+ollama pull gemma3:4b
 ```
+
+If using HuggingFace embeddings, the model is automatically downloaded on first run (~1GB, cached locally).
 
 ## Installation
 
@@ -53,16 +55,28 @@ Create a `.env` file in the project root with the following variables:
 |----------|----------|-------------|
 | `DATA_DIR` | Yes | Path to directory containing documents to index |
 | `STORAGE_DIR` | Yes | Path to store the vector index and file hashes |
-| `EMBED_MODEL` | No | Ollama embedding model name (default: `qwen3-embedding:8b`) |
-| `LLM_MODEL` | No | Ollama LLM model name (default: `llama3.1:latest`) |
+| `EMBED_PROVIDER` | No | Embedding provider: `huggingface` or `ollama` (default: `huggingface`) |
+| `EMBED_MODEL` | No | Embedding model name (default: `embeddinggemma:latest` for Ollama, `lang-uk/ukr-paraphrase-multilingual-mpnet-base` for HuggingFace) |
+| `LLM_MODEL` | No | Ollama LLM model name (default: `gemma3:4b`) |
 | `OLLAMA_BASE_URL` | No | Ollama server URL (default: `http://localhost:11434`) |
 
-Example `.env`:
+Example `.env` (Ollama - fully local, recommended):
 ```env
 DATA_DIR=/path/to/your/documents
 STORAGE_DIR=/path/to/index/storage
-EMBED_MODEL=qwen3-embedding:8b
-LLM_MODEL=llama3.1:latest
+EMBED_PROVIDER=ollama
+EMBED_MODEL=embeddinggemma:latest
+LLM_MODEL=gemma3:4b
+OLLAMA_BASE_URL=http://localhost:11434
+```
+
+Example `.env` (HuggingFace - Ukrainian-optimized):
+```env
+DATA_DIR=/path/to/your/documents
+STORAGE_DIR=/path/to/index/storage
+EMBED_PROVIDER=huggingface
+EMBED_MODEL=lang-uk/ukr-paraphrase-multilingual-mpnet-base
+LLM_MODEL=gemma3:4b
 OLLAMA_BASE_URL=http://localhost:11434
 ```
 
@@ -77,7 +91,7 @@ python index_sync.py
 ```
 
 Options:
-- `-f, --force` - Skip confirmation prompt and force synchronization
+- `-f, --force` - Delete existing index and re-index all files from scratch (with confirmation)
 
 ```bash
 python index_sync.py --force
