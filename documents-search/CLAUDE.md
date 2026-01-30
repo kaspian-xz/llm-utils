@@ -23,7 +23,7 @@ python search.py
 
 - Ollama server running locally (default: http://localhost:11434)
 - Required Ollama models pulled:
-  - Embedding: `mxbai-embed-large:latest` (multilingual)
+  - Embedding: `qwen3-embedding:8b` (multilingual, #1 on MTEB)
   - LLM: `llama3.1:latest`
 
 ## Configuration (.env)
@@ -32,7 +32,7 @@ python search.py
 |----------|---------|-------------|
 | DATA_DIR | ./data | Directory containing documents to index |
 | STORAGE_DIR | ./storage | Persisted vector store location |
-| EMBED_MODEL | mxbai-embed-large:latest | Ollama embedding model (multilingual) |
+| EMBED_MODEL | qwen3-embedding:8b | Ollama embedding model (multilingual) |
 | LLM_MODEL | llama3.1:latest | Ollama LLM model |
 | OLLAMA_BASE_URL | http://localhost:11434 | Ollama server URL |
 

@@ -1,7 +1,7 @@
-import os
+import os, time
 from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.llms.ollama import Ollama
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.embeddings.ollama import OllamaEmbedding
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -9,8 +9,7 @@ load_dotenv()
 
 # --- Configuration Loaded from .env ---
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
-# HuggingFace embedding model (multilingual)
-EMBED_MODEL = "intfloat/multilingual-e5-large"
+EMBED_MODEL = os.getenv("EMBED_MODEL", "qwen3-embedding:8b")
 LLM_MODEL = os.getenv("LLM_MODEL", "llama3.1:latest")
 
 # --- Main Logic ---
@@ -24,13 +23,14 @@ def main():
     print("Setting up models and loading index...")
 
     try:
-        # Initialize HuggingFace embedding model (multilingual)
+        ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+
+        # Initialize Ollama embedding model
         print(f"Loading embedding model: {EMBED_MODEL}...")
-        embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
+        embed_model = OllamaEmbedding(model_name=EMBED_MODEL, base_url=ollama_base_url)
 
         # Initialize Ollama LLM
-        ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434/")
-        llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url, request_timeout=120.0)
+        llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url, request_timeout=720.0)
 
         # Load the index
         storage_context = StorageContext.from_defaults(persist_dir=STORAGE_DIR)
@@ -39,7 +39,8 @@ def main():
         # Create QueryEngine
         query_engine = index.as_query_engine(
             llm=llm,
-            similarity_top_k=3,
+            similarity_top_k=5,
+            system_prompt="Відповідай українською мовою. Базуй відповідь лише на наданому контексті."
         )
         
     except Exception as e:
@@ -56,8 +57,11 @@ def main():
 
         print("...Searching...")
         try:
+            start_time = time.perf_counter()
             response = query_engine.query(query)
-
+            elapsed_time = time.perf_counter() - start_time
+            print(f"Execution time: {elapsed_time:.4f} seconds")
+            
             # Output the model's response
             print("\n" + "="*70)
             print("RESPONSE:")

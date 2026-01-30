@@ -14,12 +14,12 @@ A local document search tool using LlamaIndex with Ollama for semantic search. D
 - Python 3.10+
 - [Ollama](https://ollama.ai/) running locally
 - Required Ollama models:
-  - Embedding model (e.g., `mxbai-embed-large` - multilingual, recommended for non-English)
+  - Embedding model: `qwen3-embedding:8b` (multilingual, #1 on MTEB leaderboard)
   - LLM model (e.g., `llama3.1`)
 
 Pull the models before first use:
 ```bash
-ollama pull mxbai-embed-large
+ollama pull qwen3-embedding:8b
 ollama pull llama3.1
 ```
 
@@ -53,7 +53,7 @@ Create a `.env` file in the project root with the following variables:
 |----------|----------|-------------|
 | `DATA_DIR` | Yes | Path to directory containing documents to index |
 | `STORAGE_DIR` | Yes | Path to store the vector index and file hashes |
-| `EMBED_MODEL` | No | Ollama embedding model name (default: `mxbai-embed-large:latest`) |
+| `EMBED_MODEL` | No | Ollama embedding model name (default: `qwen3-embedding:8b`) |
 | `LLM_MODEL` | No | Ollama LLM model name (default: `llama3.1:latest`) |
 | `OLLAMA_BASE_URL` | No | Ollama server URL (default: `http://localhost:11434`) |
 
@@ -61,7 +61,7 @@ Example `.env`:
 ```env
 DATA_DIR=/path/to/your/documents
 STORAGE_DIR=/path/to/index/storage
-EMBED_MODEL=mxbai-embed-large:latest
+EMBED_MODEL=qwen3-embedding:8b
 LLM_MODEL=llama3.1:latest
 OLLAMA_BASE_URL=http://localhost:11434
 ```

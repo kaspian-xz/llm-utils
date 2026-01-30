@@ -5,7 +5,7 @@ import argparse
 from typing import Dict, List
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.llms.ollama import Ollama
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.core.node_parser import SentenceSplitter
 from dotenv import load_dotenv
 
@@ -15,8 +15,7 @@ load_dotenv()
 # --- Configuration Loaded from .env ---
 DATA_DIR = os.getenv("DATA_DIR", "./data")
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
-# HuggingFace embedding model (multilingual) - ignores legacy Ollama model names in .env
-EMBED_MODEL = "intfloat/multilingual-e5-large"
+EMBED_MODEL = os.getenv("EMBED_MODEL", "qwen3-embedding:8b")
 LLM_MODEL = os.getenv("LLM_MODEL", "llama3.1:latest")
 
 HASH_FILE = os.path.join(STORAGE_DIR, "file_hashes.json") 
@@ -57,12 +56,13 @@ def save_hashes(hashes: Dict[str, str]):
 
 def initialize_index() -> VectorStoreIndex:
     """Initializes or loads the index."""
-    # Initialize HuggingFace embedding model (multilingual)
+    ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
+
+    # Initialize Ollama embedding model
     print(f"Loading embedding model: {EMBED_MODEL}...")
-    embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
+    embed_model = OllamaEmbedding(model_name=EMBED_MODEL, base_url=ollama_base_url)
 
     # Initialize Ollama LLM
-    ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
     llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url)
     
     # Storage context (Vector DB)
