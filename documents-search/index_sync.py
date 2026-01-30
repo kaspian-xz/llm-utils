@@ -148,15 +148,21 @@ def main(force: bool = False):
                 print(f"Error calculating hash for {filepath}: {e}")
 
     # 3. Determine changes
-    files_to_process, files_to_delete, files_unchanged = get_files_to_process(current_hashes, stored_hashes)
+    if force:
+        # Force mode: re-index all files
+        files_to_process = list(current_hashes.keys())
+        files_to_delete = [f for f in stored_hashes.keys() if f not in current_hashes]
+        files_unchanged = []
+    else:
+        files_to_process, files_to_delete, files_unchanged = get_files_to_process(current_hashes, stored_hashes)
 
     print("-" * 50)
-    print(f"New/Modified files found: {len(files_to_process)}")
+    print(f"Files to index: {len(files_to_process)}" + (" (forced)" if force else ""))
     print(f"Deleted files found: {len(files_to_delete)}")
     print(f"Unchanged files: {len(files_unchanged)}")
     print("-" * 50)
 
-    # 4. Request confirmation
+    # 4. Skip if nothing to do (only in non-force mode)
     if not files_to_process and not files_to_delete:
         print("No changes detected in files. Synchronization is not needed.")
         return
