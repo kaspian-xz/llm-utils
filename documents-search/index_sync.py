@@ -16,7 +16,9 @@ import hashlib
 import argparse
 import shutil
 from typing import Dict, List
-from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, load_index_from_storage
+import chromadb
+from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext
+from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.llms.ollama import Ollama
 from llama_index.core.node_parser import SentenceSplitter
 
@@ -69,7 +71,7 @@ def save_hashes(hashes: Dict[str, str]):
         json.dump(hashes, f, indent=4)
 
 def initialize_index() -> VectorStoreIndex:
-    """Initializes or loads the index."""
+    """Initializes or loads the index using Chroma for binary vector storage."""
     ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 
     # Initialize embedding model based on provider
@@ -82,18 +84,23 @@ def initialize_index() -> VectorStoreIndex:
     # Initialize Ollama LLM
     llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url)
 
-    # Storage context (Vector DB)
-    if not os.path.exists(STORAGE_DIR):
+    # Initialize Chroma with persistent storage (binary format)
+    os.makedirs(STORAGE_DIR, exist_ok=True)
+    chroma_client = chromadb.PersistentClient(path=STORAGE_DIR)
+    chroma_collection = chroma_client.get_or_create_collection("documents")
+    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+
+    # Check if this is a new index or existing
+    if chroma_collection.count() == 0:
         print(f"Creating a new index in {STORAGE_DIR}...")
-        os.makedirs(STORAGE_DIR, exist_ok=True)
-        # Create an empty index to set up the storage structure
-        index = VectorStoreIndex([], embed_model=embed_model, llm=llm)
-        index.storage_context.persist(persist_dir=STORAGE_DIR)
-        return index
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        index = VectorStoreIndex([], storage_context=storage_context, embed_model=embed_model, llm=llm)
     else:
-        print(f"Loading index from {STORAGE_DIR}...")
-        storage_context = StorageContext.from_defaults(persist_dir=STORAGE_DIR)
-        return load_index_from_storage(storage_context, embed_model=embed_model, llm=llm)
+        print(f"Loading index from {STORAGE_DIR} ({chroma_collection.count()} vectors)...")
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        index = VectorStoreIndex.from_vector_store(vector_store, storage_context=storage_context, embed_model=embed_model, llm=llm)
+
+    return index
 
 def get_files_to_process(current_hashes: Dict[str, str], stored_hashes: Dict[str, str]) -> tuple[List[str], List[str], List[str]]:
     """Determines which files need to be added, updated, or deleted."""
@@ -201,31 +208,28 @@ def main(force: bool = False):
     # 5. Initialize/Load Index
     index = initialize_index()
 
-    # 6. Delete missing files from the index
+    # 6. Delete missing files from the index (using Chroma's where filter)
     if files_to_delete:
         print(f"\nDeleting {len(files_to_delete)} records from the index...")
-        doc_store = index.storage_context.docstore
+        chroma_collection = index.storage_context.vector_store._collection
 
-        docs_to_delete_ids = []
-        for doc_id, doc in doc_store.docs.items():
-            if doc.metadata.get('file_path') in files_to_delete:
-                docs_to_delete_ids.append(doc_id)
-
-        for doc_id in docs_to_delete_ids:
-            index.delete_ref_doc(doc_id, delete_from_docstore=True)
-            print(f"  -> Deleted doc_id {doc_id} (file was removed).")
+        for filepath in files_to_delete:
+            # Delete all vectors with matching file_path metadata
+            chroma_collection.delete(where={"file_path": filepath})
+            print(f"  -> Deleted vectors for: {os.path.basename(filepath)}")
 
     # 7. Index new/modified files
     if files_to_process:
         print(f"\nIndexing {len(files_to_process)} new/modified files...")
 
-        # For modified files, first delete the old records
-        doc_store = index.storage_context.docstore
+        # For modified files, first delete the old vectors from Chroma
+        chroma_collection = index.storage_context.vector_store._collection
         for filepath in files_to_process:
-            for doc_id, doc in doc_store.docs.items():
-                if doc.metadata.get('file_path') == filepath:
-                    print(f"  -> Deleting old version for {os.path.basename(filepath)}")
-                    index.delete_ref_doc(doc_id, delete_from_docstore=True)
+            # Check if file already exists in index and delete old vectors
+            existing = chroma_collection.get(where={"file_path": filepath})
+            if existing and existing['ids']:
+                chroma_collection.delete(where={"file_path": filepath})
+                print(f"  -> Deleting old version for {os.path.basename(filepath)}")
 
         # Read documents
         reader = SimpleDirectoryReader(input_files=files_to_process)
@@ -241,8 +245,7 @@ def main(force: bool = False):
         for filepath in files_to_process:
             print(f"  -> Indexed/Updated: {os.path.basename(filepath)}")
 
-    # 8. Save the updated index and hashes
-    index.storage_context.persist(persist_dir=STORAGE_DIR)
+    # 8. Save file hashes (Chroma auto-persists vectors)
     save_hashes(current_hashes)
     print("\n[OK] Synchronization complete. Index updated.")
 

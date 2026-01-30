@@ -40,9 +40,11 @@ python search.py
 
 ## Architecture
 
-- **index_sync.py**: Document indexer with change detection via SHA-256 hashes. Supports incremental updates (new/modified/deleted files). Uses `SentenceSplitter` (chunk_size=512, overlap=50). Supports `-f/--force` flag to skip confirmation.
+- **index_sync.py**: Document indexer with change detection via SHA-256 hashes. Supports incremental updates (new/modified/deleted files). Uses `SentenceSplitter` (chunk_size=512, overlap=50). Supports `-f/--force` flag for full re-index.
 
-- **search.py**: Interactive query interface. Loads persisted index and runs queries through `QueryEngine` (similarity_top_k=3). Displays LLM response with source file paths.
+- **search.py**: Interactive query interface. Loads persisted index and runs queries through `QueryEngine` (similarity_top_k=5). Displays LLM response with source file paths.
+
+- **Storage**: Uses ChromaDB for binary vector storage (SQLite-based). Vectors auto-persist; only file hashes stored as JSON.
 
 ## Supported Document Types
 

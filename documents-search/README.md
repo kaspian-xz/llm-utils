@@ -8,6 +8,7 @@ A local document search tool using LlamaIndex with Ollama for semantic search. D
 - Incremental indexing with SHA-256 change detection
 - Local processing with Ollama (no cloud dependencies)
 - Source file attribution in search results
+- Binary vector storage using ChromaDB (SQLite-based)
 
 ## Prerequisites
 

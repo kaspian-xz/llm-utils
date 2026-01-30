@@ -12,7 +12,9 @@ if EMBED_PROVIDER == "huggingface":
     os.environ["TRANSFORMERS_VERBOSITY"] = "error"  # Suppress model loading warnings
 
 import time
-from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
+import chromadb
+from llama_index.core import VectorStoreIndex, StorageContext
+from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.llms.ollama import Ollama
 
 # Conditional imports based on provider
@@ -50,9 +52,13 @@ def main():
         # Initialize Ollama LLM
         llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url, request_timeout=720.0)
 
-        # Load the index
-        storage_context = StorageContext.from_defaults(persist_dir=STORAGE_DIR)
-        index = load_index_from_storage(storage_context, embed_model=embed_model, llm=llm)
+        # Load the index from Chroma (binary vector storage)
+        chroma_client = chromadb.PersistentClient(path=STORAGE_DIR)
+        chroma_collection = chroma_client.get_or_create_collection("documents")
+        vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        index = VectorStoreIndex.from_vector_store(vector_store, storage_context=storage_context, embed_model=embed_model, llm=llm)
+        print(f"Loaded {chroma_collection.count()} vectors from index.")
 
         # Create QueryEngine
         query_engine = index.as_query_engine(
