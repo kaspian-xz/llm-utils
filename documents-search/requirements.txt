@@ -1,0 +1,7 @@
+llama-index==0.14.4
+llama-index-embeddings-ollama==0.8.3
+llama-index-llms-ollama==0.8.0
+llama-index-readers-file==0.5.4
+python-dotenv==1.1.1
+docx2txt==0.9
+openpyxl==3.1.5
