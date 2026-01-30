@@ -58,6 +58,7 @@ Create a `.env` file in the project root with the following variables:
 | `EMBED_PROVIDER` | No | Embedding provider: `huggingface` or `ollama` (default: `huggingface`) |
 | `EMBED_MODEL` | No | Embedding model name (default: `embeddinggemma:latest` for Ollama, `lang-uk/ukr-paraphrase-multilingual-mpnet-base` for HuggingFace) |
 | `LLM_MODEL` | No | Ollama LLM model name (default: `gemma3:4b`) |
+| `SYSTEM_PROMPT` | No | System prompt for LLM response generation (default: Ukrainian language prompt) |
 | `OLLAMA_BASE_URL` | No | Ollama server URL (default: `http://localhost:11434`) |
 
 Example `.env` (Ollama - fully local, recommended):
@@ -67,6 +68,7 @@ STORAGE_DIR=/path/to/index/storage
 EMBED_PROVIDER=ollama
 EMBED_MODEL=embeddinggemma:latest
 LLM_MODEL=gemma3:4b
+SYSTEM_PROMPT=Answer in English. Base your response only on the provided context.
 OLLAMA_BASE_URL=http://localhost:11434
 ```
 
@@ -77,6 +79,7 @@ STORAGE_DIR=/path/to/index/storage
 EMBED_PROVIDER=huggingface
 EMBED_MODEL=lang-uk/ukr-paraphrase-multilingual-mpnet-base
 LLM_MODEL=gemma3:4b
+SYSTEM_PROMPT=Відповідай українською мовою. Базуй відповідь лише на наданому контексті.
 OLLAMA_BASE_URL=http://localhost:11434
 ```
 

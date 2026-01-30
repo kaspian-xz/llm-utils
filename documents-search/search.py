@@ -25,6 +25,7 @@ else:
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "lang-uk/ukr-paraphrase-multilingual-mpnet-base" if EMBED_PROVIDER == "huggingface" else "embeddinggemma:latest")
 LLM_MODEL = os.getenv("LLM_MODEL", "gemma3:4b")
+SYSTEM_PROMPT = os.getenv("SYSTEM_PROMPT", "Відповідай українською мовою. Базуй відповідь лише на наданому контексті.")
 
 # --- Main Logic ---
 
@@ -57,7 +58,7 @@ def main():
         query_engine = index.as_query_engine(
             llm=llm,
             similarity_top_k=5,
-            system_prompt="Відповідай українською мовою. Базуй відповідь лише на наданому контексті."
+            system_prompt=SYSTEM_PROMPT
         )
 
     except Exception as e:

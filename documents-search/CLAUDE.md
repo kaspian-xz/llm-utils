@@ -35,6 +35,7 @@ python search.py
 | EMBED_PROVIDER | huggingface | Embedding provider: `huggingface` or `ollama` |
 | EMBED_MODEL | (depends on provider) | Ollama: `embeddinggemma:latest`, HuggingFace: `lang-uk/ukr-paraphrase-multilingual-mpnet-base` |
 | LLM_MODEL | gemma3:4b | Ollama LLM model |
+| SYSTEM_PROMPT | (Ukrainian) | System prompt for LLM response generation |
 | OLLAMA_BASE_URL | http://localhost:11434 | Ollama server URL |
 
 ## Architecture
