@@ -1,7 +1,7 @@
 import os
 from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.llms.ollama import Ollama
-from llama_index.embeddings.ollama import OllamaEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -9,7 +9,8 @@ load_dotenv()
 
 # --- Configuration Loaded from .env ---
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
-EMBED_MODEL = os.getenv("EMBED_MODEL", "nomic-embed-text:latest")
+# HuggingFace embedding model (multilingual)
+EMBED_MODEL = "intfloat/multilingual-e5-large"
 LLM_MODEL = os.getenv("LLM_MODEL", "llama3.1:latest")
 
 # --- Main Logic ---
@@ -20,12 +21,15 @@ def main():
         print(f"Error: Index directory '{STORAGE_DIR}' not found. Please run index_sync.py first.")
         return
 
-    print("Setting up Ollama and loading index...")
-    
+    print("Setting up models and loading index...")
+
     try:
-        # Initialize Ollama components using environment variable for base_url
+        # Initialize HuggingFace embedding model (multilingual)
+        print(f"Loading embedding model: {EMBED_MODEL}...")
+        embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
+
+        # Initialize Ollama LLM
         ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434/")
-        embed_model = OllamaEmbedding(model_name=EMBED_MODEL, base_url=ollama_base_url)
         llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url, request_timeout=120.0)
 
         # Load the index
@@ -39,7 +43,7 @@ def main():
         )
         
     except Exception as e:
-        print(f"Initialization error: Ensure Ollama is running and models ({EMBED_MODEL}, {LLM_MODEL}) are loaded.")
+        print(f"Initialization error: Ensure Ollama is running and LLM model ({LLM_MODEL}) is loaded.")
         print(f"Error details: {e}")
         return
 

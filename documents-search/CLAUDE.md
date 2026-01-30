@@ -23,7 +23,7 @@ python search.py
 
 - Ollama server running locally (default: http://localhost:11434)
 - Required Ollama models pulled:
-  - Embedding: `nomic-embed-text:latest`
+  - Embedding: `mxbai-embed-large:latest` (multilingual)
   - LLM: `llama3.1:latest`
 
 ## Configuration (.env)
@@ -32,13 +32,13 @@ python search.py
 |----------|---------|-------------|
 | DATA_DIR | ./data | Directory containing documents to index |
 | STORAGE_DIR | ./storage | Persisted vector store location |
-| EMBED_MODEL | nomic-embed-text:latest | Ollama embedding model |
+| EMBED_MODEL | mxbai-embed-large:latest | Ollama embedding model (multilingual) |
 | LLM_MODEL | llama3.1:latest | Ollama LLM model |
 | OLLAMA_BASE_URL | http://localhost:11434 | Ollama server URL |
 
 ## Architecture
 
-- **index_sync.py**: Document indexer with change detection via SHA-256 hashes. Supports incremental updates (new/modified/deleted files). Uses `IngestionPipeline` with `SentenceSplitter` (chunk_size=1024, overlap=20).
+- **index_sync.py**: Document indexer with change detection via SHA-256 hashes. Supports incremental updates (new/modified/deleted files). Uses `SentenceSplitter` (chunk_size=512, overlap=50). Supports `-f/--force` flag to skip confirmation.
 
 - **search.py**: Interactive query interface. Loads persisted index and runs queries through `QueryEngine` (similarity_top_k=3). Displays LLM response with source file paths.
 

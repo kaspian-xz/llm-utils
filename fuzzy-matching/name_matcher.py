@@ -13,7 +13,7 @@ TOP_K = 1 # We only want the single best match for each short name
 
 # Ollama Model Configuration
 EMBED_MODEL_NAME = "nomic-embed-text" # Great for embeddings
-LLM_MODEL_NAME = "gemini3:12b"            # Small, fast model for general LLM tasks
+LLM_MODEL_NAME = "gemma3:12b-it-qat"            # Small, fast model for general LLM tasks
 OLLAMA_BASE_URL = "http://localhost:11434" # Default Ollama API endpoint
 
 # --- Helper Function to Read Files ---

@@ -5,7 +5,7 @@ import argparse
 from typing import Dict, List
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.llms.ollama import Ollama
-from llama_index.embeddings.ollama import OllamaEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.core.node_parser import SentenceSplitter
 from dotenv import load_dotenv
 
@@ -15,7 +15,8 @@ load_dotenv()
 # --- Configuration Loaded from .env ---
 DATA_DIR = os.getenv("DATA_DIR", "./data")
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
-EMBED_MODEL = os.getenv("EMBED_MODEL", "nomic-embed-text:latest")
+# HuggingFace embedding model (multilingual) - ignores legacy Ollama model names in .env
+EMBED_MODEL = "intfloat/multilingual-e5-large"
 LLM_MODEL = os.getenv("LLM_MODEL", "llama3.1:latest")
 
 HASH_FILE = os.path.join(STORAGE_DIR, "file_hashes.json") 
@@ -56,9 +57,12 @@ def save_hashes(hashes: Dict[str, str]):
 
 def initialize_index() -> VectorStoreIndex:
     """Initializes or loads the index."""
-    # Initialize Ollama components using environment variable for base_url
+    # Initialize HuggingFace embedding model (multilingual)
+    print(f"Loading embedding model: {EMBED_MODEL}...")
+    embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
+
+    # Initialize Ollama LLM
     ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-    embed_model = OllamaEmbedding(model_name=EMBED_MODEL, base_url=ollama_base_url, embed_batch_size=1)
     llm = Ollama(model=LLM_MODEL, base_url=ollama_base_url)
     
     # Storage context (Vector DB)
@@ -191,8 +195,7 @@ def main(force: bool = False):
         documents = reader.load_data()
 
         # Split documents into nodes
-        # Reduced chunk_size due to Ollama embedding model limitations with Cyrillic text
-        splitter = SentenceSplitter(chunk_size=256, chunk_overlap=20)
+        splitter = SentenceSplitter(chunk_size=512, chunk_overlap=50)
         nodes = splitter.get_nodes_from_documents(documents, show_progress=True)
 
         # Insert nodes into the index (this handles embedding automatically)
