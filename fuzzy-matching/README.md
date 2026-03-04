@@ -30,11 +30,12 @@ You must have **Ollama** installed and running on your system.
 Once Ollama is running, pull the required models from the command line:
 
 ```bash
-ollama pull nomic-embed-text
-ollama pull llama2
+ollama pull embeddinggemma:latest
+ollama pull gemma3:12b-it-qat
 ```
 
 ### 2. Python Environment
+
 Create and activate a virtual environment, then install the necessary dependencies:
 
 ```Bash
@@ -44,25 +45,30 @@ pip install llama-index llama-index-llms-ollama llama-index-embeddings-ollama pa
 ```
 
 ### 3. Data Files
+
 The project expects two plain text files in the root directory:
 
-File Name	Content	Example
-items_names.txt	The list of Full Names (one name per line) that serves as the search knowledge base.	Central Processing Unit, Graphics Processing Unit
-input.txt	The list of Short Names (one name per line) that will be used as queries.	GPU, CPU
+File Name Content Example
+items_names.txt The list of Full Names (one name per line) that serves as the search knowledge base. Central Processing Unit, Graphics Processing Unit
+input.txt The list of Short Names (one name per line) that will be used as queries. GPU, CPU
 
 ## ⚙️ Usage
+
 ### 1. Configure the Script
+
 Open name_matcher.py (or the Python script you used) and verify the Ollama Configuration section matches your setup, particularly the OLLAMA_BASE_URL (usually http://localhost:11434).
 
 ```Python
 
 # Ollama Model Configuration (Verify these settings)
-EMBED_MODEL_NAME = "nomic-embed-text" 
-LLM_MODEL_NAME = "llama2"            
+EMBED_MODEL_NAME = "embeddinggemma:latest"
+LLM_MODEL_NAME = "gemma3:12b-it-qat"
 OLLAMA_BASE_URL = "http://localhost:11434"
+MIN_SIMILARITY_SCORE = 0.5 # Minimum score to consider a match valid
 ```
 
 ### 2. Run the Matching Script
+
 Execute the Python file:
 
 ```bash
@@ -70,17 +76,12 @@ python name_matcher.py
 ```
 
 #### 3. Check the Output
-Upon successful execution, a file named output.csv will be generated in the project directory.
 
+Upon successful execution, a file named output.csv will be generated in the project directory.
 
 output.csv Structure:
 
-|Short Name	|Full Name Match|	Similarity Score (Optional)|
-|-----------|---------------|------------------------------|
-|GPU	|Graphics Processing Unit   |	0.8541|
-|USB-A  |	Universal Serial Bus    |	0.7910|
-
-
-
-
-
+| Short Name | Full Name Match          | Similarity Score (Optional) |
+| ---------- | ------------------------ | --------------------------- |
+| GPU        | Graphics Processing Unit | 0.8541                      |
+| USB-A      | Universal Serial Bus     | 0.7910                      |

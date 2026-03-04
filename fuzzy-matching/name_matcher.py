@@ -10,9 +10,10 @@ FULL_NAMES_FILE = 'items_names.txt'
 SHORT_NAMES_FILE = 'input.txt'
 OUTPUT_CSV_FILE = 'output.csv'
 TOP_K = 1 # We only want the single best match for each short name
+MIN_SIMILARITY_SCORE = 0.75 # Minimum score to consider a match valid (0.0 to 1.0)
 
 # Ollama Model Configuration
-EMBED_MODEL_NAME = "nomic-embed-text" # Great for embeddings
+EMBED_MODEL_NAME = "embeddinggemma:latest" # Great for embeddings
 LLM_MODEL_NAME = "gemma3:12b-it-qat"            # Small, fast model for general LLM tasks
 OLLAMA_BASE_URL = "http://localhost:11434" # Default Ollama API endpoint
 
@@ -86,8 +87,13 @@ def find_matches_with_ollama():
         score = None
 
         if retrieved_nodes:
-            full_name_match = retrieved_nodes[0].get_text()
-            score = retrieved_nodes[0].get_score()
+            top_node = retrieved_nodes[0]
+            score = top_node.get_score()
+            
+            if score >= MIN_SIMILARITY_SCORE:
+                full_name_match = top_node.get_text()
+            else:
+                full_name_match = f"NO_MATCH_FOUND"
 
         results.append({
             'Short Name': short_name,
